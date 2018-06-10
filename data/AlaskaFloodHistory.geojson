@@ -1,0 +1,5765 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -154.173200,56.946800 ]
+    },
+    "properties": {
+    "city":"Akhiok",
+    "tot_floods":1,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Akhiok is located at the southern end of Kodiak Island at Alitak Bay. It lies 80 miles southwest of the City of Kodiak and 340 miles southwest of Anchorage.",
+    "pronunciation":"ack' ee awk",
+    "watershed":"Alitak Bay-Frontal Pacific Ocean"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.449100,60.913800 ]
+    },
+    "properties": {
+    "city":"Akiachak",
+    "tot_floods":12,
+    "tot_sev_unknown":8,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":3,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"1",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":2,
+    "d_1989":5,
+    "d_1999":1,
+    "d_2009":2,
+    "d_2019":0,
+    "desc":"Akiachak is located on the west bank of the Kuskokwim River, on the Yukon-Kuskokwim Delta. It lies 18 miles northeast of Bethel.",
+    "pronunciation":"ack' ee uh chuck",
+    "watershed":"Israthorak Creek-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.213900,60.912200 ]
+    },
+    "properties": {
+    "city":"Akiak",
+    "tot_floods":11,
+    "tot_sev_unknown":7,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":1,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"1",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":1,
+    "d_1989":4,
+    "d_1999":1,
+    "d_2009":3,
+    "d_2019":0,
+    "desc":"Akiak is located on the west bank of the Kuskokwim River, 42 air miles northeast of Bethel, on the Yukon-Kuskokwim Delta.",
+    "pronunciation":"ack' ee ack",
+    "watershed":"Israthorak Creek-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -164.621600,62.687100 ]
+    },
+    "properties": {
+    "city":"Alakanuk",
+    "tot_floods":13,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":4,
+    "tot_sev_major":7,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"1",
+    "d_1969":0,
+    "d_1979":3,
+    "d_1989":2,
+    "d_1999":1,
+    "d_2009":4,
+    "d_2019":2,
+    "desc":"Alakanuk is located at the east entrance of Alakanuk Pass, the major southern channel of the Yukon River, 15 miles from the Bering Sea. It is part of the Yukon Delta National Wildlife Refuge. It lies 8 miles southwest of Emmonak, approximately 162 air mi",
+    "pronunciation":"ah lack' uh nuck",
+    "watershed":"Outlet Yukon River-Frontal Bering Sea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.701300,66.554500 ]
+    },
+    "properties": {
+    "city":"Alatna",
+    "tot_floods":4,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":0,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":2,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Alatna is on the north bank of the Koyukuk river, southwest of its junction with the Alatna River, approximately 190 air miles northwest of Fairbanks and 57 miles upriver from Hughes. Alatna lies just west of the municipal boundaries of the City of Allak",
+    "pronunciation":"ah lat' na",
+    "watershed":"Bergman Creek-Koyukuk River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.626200,59.281200 ]
+    },
+    "properties": {
+    "city":"Aleknagik",
+    "tot_floods":3,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":3,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Aleknagik is located at the head of Wood River on the southeast end of Lake Aleknagik, 16 miles northwest of Dillingham.",
+    "pronunciation":"ah leck' nuh gick",
+    "watershed":"Wood River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.644500,66.563300 ]
+    },
+    "properties": {
+    "city":"Allakaket",
+    "tot_floods":13,
+    "tot_sev_unknown":8,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":1,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":3,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":3,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":4,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Allakaket is on the south bank of the Koyukuk River, southwest of its junction with the Alatna River, approximately 190 air miles northwest of Fairbanks and 57 miles upriver from Hughes. The village of Alatna is located directly across the river.",
+    "pronunciation":"al uh kack' ut",
+    "watershed":"Bergman Creek-Koyukuk River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.859500,67.085400 ]
+    },
+    "properties": {
+    "city":"Ambler",
+    "tot_floods":5,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":3,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Ambler is located on the north bank of the Kobuk River, near the confluence of the Ambler and the Kobuk Rivers. It lies 45 miles north of the Arctic Circle. It is 138 miles northeast of Kotzebue, 30 miles northwest of Kobuk, and 30 miles downriver from S",
+    "pronunciation":"am' blur",
+    "watershed":"Niaktuvik Creek-Kobuk River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.739500,68.141500 ]
+    },
+    "properties": {
+    "city":"Anaktuvuk Pass",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Anaktuvuk Pass, at 2,200 feet elevation on the divide between the Anaktuvuk and John Rivers in the central Brooks Range, is the last remaining settlement of the Nunamiut (inland northern Inupiat Eskimo).",
+    "pronunciation":"an ack too' vick",
+    "watershed":"Headwaters John River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.834000,59.776400 ]
+    },
+    "properties": {
+    "city":"Anchor Point",
+    "tot_floods":8,
+    "tot_sev_unknown":6,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":0,
+    "d_2009":4,
+    "d_2019":2,
+    "desc":"Anchor Point is located on the Kenai Peninsula at the junction of the Anchor River and its north fork, 14 miles northwest of Homer. It lies at mile 156 of the Sterling Highway.",
+    "pronunciation":"an kur point'",
+    "watershed":"Quiet Creek-Frontal Kachemak Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.894800,61.216300 ]
+    },
+    "properties": {
+    "city":"Anchorage",
+    "tot_floods":30,
+    "tot_sev_unknown":8,
+    "tot_sev_minor":14,
+    "tot_sev_moderate":6,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":2,
+    "d_1979":6,
+    "d_1989":3,
+    "d_1999":3,
+    "d_2009":11,
+    "d_2019":5,
+    "desc":"Anchorage, the most populated municipality in Alaska, is located in southcentral Alaska at the head of Cook Inlet. It is 3 hours' flight time from Seattle.",
+    "pronunciation":"ang' kuh ridge",
+    "watershed":"Ship Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.188300,64.343100 ]
+    },
+    "properties": {
+    "city":"Anderson",
+    "tot_floods":1,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Anderson lies on a spur road that spans 6 miles west off the George Parks Highway, 76 miles southwest of Fairbanks and 285 miles north of Anchorage. Clear Air Force Station is located within the city boundaries.",
+    "pronunciation":"-",
+    "watershed":"Lignite Creek-Nenana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.550100,61.580600 ]
+    },
+    "properties": {
+    "city":"Aniak",
+    "tot_floods":6,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":2,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":1,
+    "d_2009":3,
+    "d_2019":0,
+    "desc":"Aniak is located on the south bank of the Kuskokwim River at the head of Aniak Slough, 59 miles southeast of Russian Mission in the Yukon-Kuskokwim Delta. It lies 92 air miles northeast of Bethel and 317 miles west of Anchorage.",
+    "pronunciation":"an' ee ack",
+    "watershed":"Aniak Slough-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -160.198000,62.652200 ]
+    },
+    "properties": {
+    "city":"Anvik",
+    "tot_floods":3,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":2,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Anvik is located in Interior Alaska on the Anvik River, west of the Yukon River, 34 miles north of Holy Cross.",
+    "pronunciation":"an' vick",
+    "watershed":"Grayling Creek-Yukon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -156.768500,71.289100 ]
+    },
+    "properties": {
+    "city":"Barrow",
+    "tot_floods":3,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Barrow, the northernmost community in the United States, is located on the Chukchi Sea coast, 10 miles south of Point Barrow, from which it takes its name. It lies 725 air miles from Anchorage.",
+    "pronunciation":"bare' row",
+    "watershed":"Isatkoak Lagoon-Frontal Chukchi Sea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.397200,66.360400 ]
+    },
+    "properties": {
+    "city":"Beaver",
+    "tot_floods":2,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Beaver is located on the north bank of the Yukon River, approximately 60 air miles southwest of Fort Yukon and 110 miles north of Fairbanks. It lies in the Yukon Flats National Wildlife Refuge.",
+    "pronunciation":"bee' vur",
+    "watershed":"Oscar Island-Yukon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.770600,60.802100 ]
+    },
+    "properties": {
+    "city":"Bethel",
+    "tot_floods":6,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":1,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":1,
+    "d_2009":3,
+    "d_2019":1,
+    "desc":"Bethel is located at the mouth of the Kuskokwim River, 40 miles inland from the Bering Sea. It lies in the Yukon Delta National Wildlife Refuge, 400 air miles west of Anchorage.",
+    "pronunciation":"beth ul",
+    "watershed":"Tupuknuk Slough-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.518800,66.916400 ]
+    },
+    "properties": {
+    "city":"Bettles",
+    "tot_floods":2,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Bettles is located about 180 air miles and 250 road miles northwest of Fairbanks, adjacent to Evansville. It lies just north of the Kanuti National Wildlife Refuge. Bettles is located on the S.E. bank of the Koyukuk River.",
+    "pronunciation":"bet' ullz",
+    "watershed":"Jim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -166.487900,65.333300 ]
+    },
+    "properties": {
+    "city":"Brevig Mission",
+    "tot_floods":2,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":2,
+    "desc":"Brevig Mission is located at the mouth of Shelman Creek on Port Clarence, 5 miles northwest of Teller and 65 miles northwest of Nome.",
+    "pronunciation":"breh' vick",
+    "watershed":"Grantley Harbor-Frontal Port Clarence"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.125500,65.978000 ]
+    },
+    "properties": {
+    "city":"Buckland",
+    "tot_floods":9,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":4,
+    "tot_sev_moderate":5,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":0,
+    "d_2009":3,
+    "d_2019":4,
+    "desc":"Buckland is located on the west bank of the Buckland River, about 75 miles southeast of Kotzebue.",
+    "pronunciation":"buck' lund",
+    "watershed":"Lower Selawik River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.005800,61.536400 ]
+    },
+    "properties": {
+    "city":"Butte",
+    "tot_floods":4,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":1,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":2,
+    "desc":"Butte is located south of Palmer in the Mat-Su Borough, between mile 9 and mile 16 of the Old Glenn Highway. It lies at the foot of Bodenberg Butte, east of a Matanuska River, 42 miles north of Anchorage.",
+    "pronunciation":"byoot",
+    "watershed":"Knik River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.950800,63.391700 ]
+    },
+    "properties": {
+    "city":"Cantwell",
+    "tot_floods":3,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Cantwell is located on the George Parks Highway at the west end of the Denali Highway, 211 miles north of Anchorage and 28 miles south of Denali (Mount McKinley) Park. Part of the community is located on the Alaska Railroad. The areas known as Kantishna",
+    "pronunciation":"cant' well",
+    "watershed":"Jack River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -144.822000,65.570700 ]
+    },
+    "properties": {
+    "city":"Central",
+    "tot_floods":7,
+    "tot_sev_unknown":4,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":0,
+    "d_1989":3,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Central is located on the Steese Highway about 125 miles northeast of Fairbanks and 28 miles southwest of Circle. Circle Hot Springs is located nearby.",
+    "pronunciation":"sen' trul",
+    "watershed":"Crooked Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -143.727900,66.650400 ]
+    },
+    "properties": {
+    "city":"Chalkyitsik",
+    "tot_floods":3,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":2,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Chalkyitsik is located on the Black River about 50 miles east of Fort Yukon.",
+    "pronunciation":"chall keet' sick",
+    "watershed":"Outlet Sheenjek River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.479200,65.110900 ]
+    },
+    "properties": {
+    "city":"Chatanika",
+    "tot_floods":2,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Chatanika is a small unincorporated community located in the Fairbanks North Star Borough, Alaska, United States, north-northeast of the city of Fairbanks. The community runs along an approximately 20-mile (32 km) stretch of the Steese Highway, the majority of which sees the highway paralleled by the Chatanika River.",
+    "pronunciation":"-",
+    "watershed":"Vault Creek-Chatanika River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.058300,65.052500 ]
+    },
+    "properties": {
+    "city":"Chena Hot Springs",
+    "tot_floods":1,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Chena Hot Springs is home to the famous hot springs and resort of the same name. It is about 60 miles west of Fairbanks.",
+    "pronunciation":"-",
+    "watershed":"Upper Chena River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.493300,61.776500 ]
+    },
+    "properties": {
+    "city":"Chickaloon",
+    "tot_floods":1,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"The unincorporated community of Chickaloon is located within the Matanuska-Susitna Borough, northeast of the community of Sutton. Its western boundary is in the vicinity of the Kings River (mile 66.4 on the Glenn Highway), and its eastern boundary is in",
+    "pronunciation":"chick' uh loon",
+    "watershed":"Chickaloon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -144.664200,62.566400 ]
+    },
+    "properties": {
+    "city":"Chistochina",
+    "tot_floods":2,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Chistochina is located at mile 32.7 on the Tok Cutoff to the Glenn Highway, 42 miles northeast of Glennallen. Sinona Creek, Bolder Creek, Chistochina River, and Copper River surround the village.",
+    "pronunciation":"chis' toe chee' nuh",
+    "watershed":"Sinona Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -144.441100,61.516500 ]
+    },
+    "properties": {
+    "city":"Chitina",
+    "tot_floods":6,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":2,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":3,
+    "d_2019":0,
+    "desc":"Chitina is located on the west bank of the Copper River at its confluence with the Chitina River, at mile 34 of the Edgerton Highway, 53 miles southeast of Copper Center. It lies outside the western boundary of the Wrangell-St. Elias National Park and Pr",
+    "pronunciation":"chih tee' nuh",
+    "watershed":"Nadina River-Copper River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -144.066800,65.826700 ]
+    },
+    "properties": {
+    "city":"Circle",
+    "tot_floods":7,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":3,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":4,
+    "desc":"Circle is located on the south bank of the Yukon River at the edge of the Yukon Flats, 160 miles northeast of Fairbanks. It is at the eastern end of the Steese Highway.",
+    "pronunciation":"-",
+    "watershed":"Jefferson Creek-Yukon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.189600,67.256200 ]
+    },
+    "properties": {
+    "city":"Coldfoot",
+    "tot_floods":1,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Coldfoot is located at the mouth of Slate Creek on the east bank of the Middle Fork Koyukuk River. It lies at mile 175 of the Dalton Highway, formerly known as the North Slope Haul Road.",
+    "pronunciation":"-",
+    "watershed":"Marion Creek-Middle Fork Koyukuk River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.395899,70.429902 ]
+    },
+    "properties": {
+    "city":"Colville Village",
+    "tot_floods":8,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":4,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":4,
+    "d_2019":4,
+    "desc":"Jim and Teena live on an island at the mouth of the Colville River Delta, on the northern coast of Alaska. The family homesite is called Colville Village and sits about 160 miles southeast of Barrow.",
+    "pronunciation":"-",
+    "watershed":"Colville River Delta-Frontal Harrison Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.811400,60.489500 ]
+    },
+    "properties": {
+    "city":"Cooper Landing",
+    "tot_floods":4,
+    "tot_sev_unknown":4,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":3,
+    "d_2019":0,
+    "desc":"Cooper Landing is at the west end of Kenai Lake on a stretch of the Sterling Highway, 30 miles northwest of Seward in the Chugach Mountains.",
+    "pronunciation":"-",
+    "watershed":"Upper Kenai River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.305300,61.955000 ]
+    },
+    "properties": {
+    "city":"Copper Center",
+    "tot_floods":5,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":2,
+    "d_2009":2,
+    "d_2019":0,
+    "desc":"Copper Center is located between miles 101 and 105 of the Richardson Highway. It is on the west bank of the Copper River at the confluence of the Klutina River. It lies just west of the Wrangell-St. Elias National Park.",
+    "pronunciation":"-",
+    "watershed":"Lower Klutina River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.758800,60.540300 ]
+    },
+    "properties": {
+    "city":"Cordova",
+    "tot_floods":15,
+    "tot_sev_unknown":7,
+    "tot_sev_minor":6,
+    "tot_sev_moderate":2,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":1,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":2,
+    "d_1989":3,
+    "d_1999":3,
+    "d_2009":4,
+    "d_2019":2,
+    "desc":"Cordova is located at the southeastern end of Prince William Sound in the Gulf of Alaska. The community was built on Orca Inlet at the base of Eyak Mountain. It lies 52 air miles southeast of Valdez and 150 miles southeast of Anchorage.",
+    "pronunciation":"core doh' vuh",
+    "watershed":"Orca Inlet-Frontal Prince William Sound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -163.676400,64.895000 ]
+    },
+    "properties": {
+    "city":"Council",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Council is located at the terminus of the Nome/Council road, 60 miles northeast of Nome. It lies on left bank of the Niukluk River.",
+    "pronunciation":"-",
+    "watershed":"Outlet Niukluk River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.105800,61.870400 ]
+    },
+    "properties": {
+    "city":"Crooked Creek",
+    "tot_floods":4,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":2,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":1,
+    "desc":"Crooked Creek is located on the north bank of the Kuskokwim River at its junction with Crooked Creek. It lies in the Kilbuk-Kuskokwim Mountains 50 miles northeast of Aniak, 141 miles northeast of Bethel, and 275 miles west of Anchorage.",
+    "pronunciation":"-",
+    "watershed":"Veahna Creek-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -162.724400,66.075500 ]
+    },
+    "properties": {
+    "city":"Deering",
+    "tot_floods":2,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":2,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":2,
+    "desc":"Deering is located on Kotzebue Sound at the mouth of the Inmachuk River, 57 miles southwest of Kotzebue. It is built on a flat sand and gravel spit 300 feet wide and a half-mile long.",
+    "pronunciation":"dear' een",
+    "watershed":"Outlet Goodhope River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.714100,64.042800 ]
+    },
+    "properties": {
+    "city":"Delta Junction",
+    "tot_floods":9,
+    "tot_sev_unknown":5,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":3,
+    "d_2009":5,
+    "d_2019":1,
+    "desc":"Delta Junction is located at the convergence of the Richardson and Alaska Highways, approximately 95 miles southeast of Fairbanks. The city developed along the east bank of the Delta River, south of its junction with the Tanana River. It offers spectacul",
+    "pronunciation":"-",
+    "watershed":"Jarvis Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.465600,59.040600 ]
+    },
+    "properties": {
+    "city":"Dillingham",
+    "tot_floods":3,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":2,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Dillingham is located at the extreme northern end of Nushagak Bay in northern Bristol Bay, at the confluence of the Wood and Nushagak Rivers. It lies 327 miles southwest of Anchorage and is a 6 hour flight from Seattle.",
+    "pronunciation":"dill' een ham",
+    "watershed":"Wood River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -168.951500,65.758900 ]
+    },
+    "properties": {
+    "city":"Diomede",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Diomede is located on the west coast of Little Diomede Island in the Bering Straits, 135 miles northwest of Nome. It is only 2.5 miles from Big Diomede Island, Russia, and the international boundary lies between the two islands.",
+    "pronunciation":"die' oh meed",
+    "watershed":"Grantley Harbor-Frontal Port Clarence"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.360900,59.483200 ]
+    },
+    "properties": {
+    "city":"Dyea",
+    "tot_floods":14,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":4,
+    "tot_sev_moderate":8,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"1",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":11,
+    "desc":"Dyea is the site of a former Chilkat Tlingit Indian Village. It was the port of entry through Chilkoot Pass, one of the most popular routes to the Klondike and still a popular hiking trail today. The Dyea Post Office was established in 1896 and closed in 1902. The town began to decline after the construction of the White Pass and Yukon Railroad in 1902.",
+    "pronunciation":"-",
+    "watershed":"Taiya River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -141.202700,64.786900 ]
+    },
+    "properties": {
+    "city":"Eagle",
+    "tot_floods":9,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":1,
+    "tot_sev_major":4,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":1,
+    "d_1949":1,
+    "d_1959":"0",
+    "d_1969":2,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":2,
+    "d_2019":2,
+    "desc":"The City of Eagle and Eagle Village are located on the Taylor Highway, 6 miles west of the Alaska-Canadian border. Eagle is on the left bank of the Yukon River at the mouth of Mission Creek. The Yukon-Charley Rivers National Preserve is northwest of the",
+    "pronunciation":"-",
+    "watershed":"Last Chance Creek-Yukon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -141.113600,64.780600 ]
+    },
+    "properties": {
+    "city":"Eagle Village",
+    "tot_floods":2,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Eagle Village is on the left bank of the Yukon River, 3 miles east of the City of Eagle, on the Taylor Highway. The village is southeast of the Yukon Charley Rivers National Preserve.",
+    "pronunciation":"-",
+    "watershed":"Last Chance Creek-Yukon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.476700,59.349700 ]
+    },
+    "properties": {
+    "city":"Ekwok",
+    "tot_floods":3,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":0,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":3,
+    "d_2019":0,
+    "desc":"Ekwok is located along the Nushagak River, 43 miles northeast of Dillingham and 285 miles southwest of Anchorage.",
+    "pronunciation":"eck' wock",
+    "watershed":"Tunravik Creek-Nushagak River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -162.264800,64.616000 ]
+    },
+    "properties": {
+    "city":"Elim",
+    "tot_floods":8,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":4,
+    "tot_sev_major":3,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":6,
+    "d_2019":2,
+    "desc":"Elim is located on the northwest shore of Norton Bay on the Seward Peninsula, 96 miles east of Nome. It lies 460 miles northwest of Anchorage.",
+    "pronunciation":"ee' lim",
+    "watershed":"Norton Bay-Frontal Norton Sound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -164.528700,62.778500 ]
+    },
+    "properties": {
+    "city":"Emmonak",
+    "tot_floods":13,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":4,
+    "tot_sev_moderate":4,
+    "tot_sev_major":5,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":3,
+    "d_1999":2,
+    "d_2009":6,
+    "d_2019":2,
+    "desc":"Emmonak is located at the mouth of the Yukon River, 10 miles from the Bering Sea, on the north bank of Kwiguk Pass. It lies 120 air miles northwest of Bethel and 490 air miles from Anchorage, in the Yukon Delta National Wildlife Refuge.",
+    "pronunciation":"ee mahn' nuck",
+    "watershed":"Outlet Yukon River-Frontal Bering Sea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.733600,64.835700 ]
+    },
+    "properties": {
+    "city":"Fairbanks",
+    "tot_floods":31,
+    "tot_sev_unknown":5,
+    "tot_sev_minor":13,
+    "tot_sev_moderate":9,
+    "tot_sev_major":4,
+    "d_1909":1,
+    "d_1919":"1",
+    "d_1929":"0",
+    "d_1939":2,
+    "d_1949":1,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":4,
+    "d_2009":11,
+    "d_2019":8,
+    "desc":"Fairbanks is located in the heart of Alaska's Interior, on the banks of the Chena River in the Tanana Valley. By air, Fairbanks is 45 minutes from Anchorage and 3 hours from Seattle. It lies 358 road miles north of Anchorage.",
+    "pronunciation":"fair' banks",
+    "watershed":"McDonald Creek-Tanana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -163.411900,54.854900 ]
+    },
+    "properties": {
+    "city":"False Pass",
+    "tot_floods":1,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"False Pass is located on the eastern shore of Unimak Island on a strait connecting the Pacific Gulf of Alaska to the Bering Sea. It is 646 air miles southwest of Anchorage. The city owns approximately 66 square miles of land and water.",
+    "pronunciation":"-",
+    "watershed":"Izembek Lagoon-Frontal Bristol Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.259000,66.564000 ]
+    },
+    "properties": {
+    "city":"Fort Yukon",
+    "tot_floods":29,
+    "tot_sev_unknown":19,
+    "tot_sev_minor":4,
+    "tot_sev_moderate":4,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"1",
+    "d_1939":3,
+    "d_1949":3,
+    "d_1959":"1",
+    "d_1969":3,
+    "d_1979":3,
+    "d_1989":2,
+    "d_1999":6,
+    "d_2009":3,
+    "d_2019":4,
+    "desc":"Fort Yukon is located at the confluence of the Yukon and Porcupine Rivers, about 145 air miles northeast of Fairbanks.",
+    "pronunciation":"you' kawn",
+    "watershed":"Curtis Slough-Porcupine River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.301900,62.301900 ]
+    },
+    "properties": {
+    "city":"Gakona",
+    "tot_floods":4,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Gakona is at the confluence of the Copper and Gakona Rivers, 15 miles northeast of Glennallen. It lies at mile 2 on the Tok cutoff to the Glenn Highway, just east of the Richardson Highway.",
+    "pronunciation":"gaw koh' nuh",
+    "watershed":"Outlet Gakona River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -156.954300,64.741800 ]
+    },
+    "properties": {
+    "city":"Galena",
+    "tot_floods":8,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":1,
+    "tot_sev_major":6,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":1,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":3,
+    "d_2009":0,
+    "d_2019":2,
+    "desc":"Galena is located on the north bank of the Yukon River, 45 miles east of Nulato and 270 air miles west of Fairbanks. It lies northeast of the Innoko National Wildlife Refuge.",
+    "pronunciation":"guh lee' nuh",
+    "watershed":"Pilot Mountain Slough-Yukon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -171.715200,63.776900 ]
+    },
+    "properties": {
+    "city":"Gambell",
+    "tot_floods":12,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":5,
+    "tot_sev_moderate":2,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":3,
+    "d_1989":3,
+    "d_1999":2,
+    "d_2009":3,
+    "d_2019":0,
+    "desc":"Gambell is located on the northwest cape of St. Lawrence Island, 200 miles southwest of Nome, in the Bering Sea. The city is 36 miles from the Chukotka Peninsula, Siberia.",
+    "pronunciation":"gam' bull",
+    "watershed":"Feather River-Frontal Bering Sea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.527800,62.112700 ]
+    },
+    "properties": {
+    "city":"Glennallen",
+    "tot_floods":5,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":2,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":0,
+    "desc":"The community of Glennallen lies along the Glenn Highway at its junction with the Richardson Highway, 189 road miles east of Anchorage. It is located just outside the western boundary of Wrangell-St. Elias National Park.",
+    "pronunciation":"gleh nal' len",
+    "watershed":"Moose Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -163.035100,64.542800 ]
+    },
+    "properties": {
+    "city":"Golovin",
+    "tot_floods":6,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":1,
+    "tot_sev_major":4,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":3,
+    "d_2019":2,
+    "desc":"Golovin is located on a point of land between Golovnin Bay and Golovnin Lagoon on the Seward Peninsula. It is 70 miles east of Nome.",
+    "pronunciation":"gah' loh vin",
+    "watershed":"Golovnin Bay-Frontal Norton Sound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -160.066600,62.906600 ]
+    },
+    "properties": {
+    "city":"Grayling",
+    "tot_floods":2,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":2,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Grayling is located in Interior Alaska on the west bank of the Yukon River, east of the Nulato Hills. It is 18 air miles north of Anvik.",
+    "pronunciation":"gray' leen",
+    "watershed":"Grayling Creek-Yukon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.371900,62.268600 ]
+    },
+    "properties": {
+    "city":"Gulkana",
+    "tot_floods":6,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":5,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":3,
+    "d_2019":3,
+    "desc":"Gulkana is located on the east bank of the Gulkana (Kulkana) River at its confluence with the Copper River. It lies at mile 127 of the Richardson Highway, 14 miles north of Glennallen.",
+    "pronunciation":"gull kann' uh",
+    "watershed":"Sourdough Creek-Gulkana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.453000,59.234500 ]
+    },
+    "properties": {
+    "city":"Haines",
+    "tot_floods":8,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":1,
+    "tot_sev_major":4,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":3,
+    "d_2009":2,
+    "d_2019":1,
+    "desc":"Haines Borough is located on the shores of the Lynn Canal between the Chilkoot and Chilkat Rivers, 80 air miles northwest of Juneau. It is just south of the Canadian border at British Columbia and 600 air miles southeast of Anchorage and Fairbanks. By ro",
+    "pronunciation":"haynz",
+    "watershed":"Chilkat Inlet-Frontal Lynn Canal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.003300,63.873400 ]
+    },
+    "properties": {
+    "city":"Healy",
+    "tot_floods":4,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":0,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":2,
+    "d_2019":1,
+    "desc":"Healy lies at the mouth of Healy Creek on the Nenana River, 78 miles southwest of Fairbanks. It is located on a 2.5-mile spur road, just north of the entrance to the Denali National Park and Preserve on the George Parks Highway.",
+    "pronunciation":"hee' lee",
+    "watershed":"Lignite Creek-Nenana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.768600,62.200500 ]
+    },
+    "properties": {
+    "city":"Holy Cross",
+    "tot_floods":4,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":1,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Holy Cross is located in Interior Alaska on the west bank of Ghost Creek Slough off the Yukon River. It is 40 miles northwest of Aniak and 420 miles southwest of Fairbanks.",
+    "pronunciation":"-",
+    "watershed":"Outlet Innoko River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.555500,59.643400 ]
+    },
+    "properties": {
+    "city":"Homer",
+    "tot_floods":10,
+    "tot_sev_unknown":9,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":4,
+    "d_1999":1,
+    "d_2009":3,
+    "d_2019":1,
+    "desc":"Homer is located on the north shore of Kachemak Bay on the southwestern edge of the Kenai Peninsula. The Homer Spit, a 4.5-mile long bar of gravel, extends from the Homer shoreline. It is 227 road miles south of Anchorage, at the southern-most point of t",
+    "pronunciation":"-",
+    "watershed":"West Arm Nuka Bay-Frontal Nuka Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.442400,58.108800 ]
+    },
+    "properties": {
+    "city":"Hoonah",
+    "tot_floods":2,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Hoonah is a Tlingit community located on the northeast shore of Chichagof Island, 40 air miles west of Juneau.",
+    "pronunciation":"hoo' nah",
+    "watershed":"Port Fredrick-Frontal Icy Strait"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -166.096100,61.521800 ]
+    },
+    "properties": {
+    "city":"Hooper Bay",
+    "tot_floods":2,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":0,
+    "desc":"Hooper Bay is located 20 miles south of Cape Romanzof and 25 miles south of Scammon Bay in the Yukon-Kuskokwim Delta. The city is separated into two sections: a heavily built-up townsite located on gently rolling hills and a newer section in the lowlands",
+    "pronunciation":"hoo' pur",
+    "watershed":"Ninglick River-Frontal Hazen Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.638200,60.918400 ]
+    },
+    "properties": {
+    "city":"Hope",
+    "tot_floods":5,
+    "tot_sev_unknown":5,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":2,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":0,
+    "desc":"Hope lies on the northern end of the Kenai Peninsula on the south shore of the Turnagain Arm of Cook Inlet. The community lies on the 17-mile Hope Highway, northwest of the Seward Highway, near the mouth of Resurrection Creek.",
+    "pronunciation":"-",
+    "watershed":"Resurrection Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.800700,61.631200 ]
+    },
+    "properties": {
+    "city":"Houston",
+    "tot_floods":2,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":1,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Houston is located 18 miles northwest of Wasilla and 57 road miles north of Anchorage. It lies on the George Parks Highway, along the Little Susitna River.",
+    "pronunciation":"-",
+    "watershed":"Little Susitna River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -154.255600,66.048900 ]
+    },
+    "properties": {
+    "city":"Hughes",
+    "tot_floods":9,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":3,
+    "tot_sev_major":3,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":1,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":4,
+    "d_2009":2,
+    "d_2019":1,
+    "desc":"Hughes is located on a 500-foot bluff on the east bank of the Koyukuk River, about 115 air miles northeast of Galena and 210 air miles northwest of Fairbanks.",
+    "pronunciation":"hewz",
+    "watershed":"Indian River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -156.389200,65.701800 ]
+    },
+    "properties": {
+    "city":"Huslia",
+    "tot_floods":3,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Huslia is located on the north bank of the Koyukuk River, about 170 river miles northwest of Galena and 290 air miles west of Fairbanks. It lies within the Koyukuk National Wildlife Refuge.",
+    "pronunciation":"hoos' lee uh",
+    "watershed":"Middle Hogatza River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -132.826100,55.207100 ]
+    },
+    "properties": {
+    "city":"Hydaburg",
+    "tot_floods":2,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":0,
+    "desc":"Hydaburg is located on the southwest coast of Prince of Wales Island, 45 air miles northwest of Ketchikan. It lies 36 road miles west of Hollis, site of the state ferry landing.",
+    "pronunciation":"high' duh burg",
+    "watershed":"Jackson Passage-Frontal Cordova Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -130.030100,55.919100 ]
+    },
+    "properties": {
+    "city":"Hyder",
+    "tot_floods":4,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":1,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Hyder is nestled at the head of Portland Canal, a 96 mile-long fjord which forms a portion of the U.S./Canadian border. Hyder is 75 air miles from Ketchikan. It is the only community in southern southeast Alaska accessible by road; the only road into Hyd",
+    "pronunciation":"high' dur",
+    "watershed":"Walker Cove-Frontal Behm Canal"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.895500,59.327000 ]
+    },
+    "properties": {
+    "city":"Igiugig",
+    "tot_floods":2,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Igiugig is located on the Alaska Peninsula on the south shore of the Kvichak River, which flows from Iliamna Lake. It is 50 air miles northeast of King Salmon and 48 miles southwest of Iliamna.",
+    "pronunciation":"ig ee uh' gig",
+    "watershed":"Kaskanak Creek-Kvichak River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -154.906100,59.754700 ]
+    },
+    "properties": {
+    "city":"Iliamna",
+    "tot_floods":3,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Iliamna is located on the northwest side of Iliamna Lake, 225 miles southwest of Anchorage. It is near the Lake Clark Park and Preserve.",
+    "pronunciation":"ill ee am' nuh",
+    "watershed":"Iliamna Lake"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -134.410600,58.302100 ]
+    },
+    "properties": {
+    "city":"Juneau",
+    "tot_floods":14,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":4,
+    "tot_sev_moderate":6,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"1",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":2,
+    "d_2009":5,
+    "d_2019":5,
+    "desc":"Located on the mainland of Southeast Alaska, opposite Douglas Island, Juneau was built at the heart of the Inside Passage along the Gastineau Channel. It lies 900 air miles northwest of Seattle and 577 air miles southeast of Anchorage.",
+    "pronunciation":"jew' noh",
+    "watershed":"Mendenhall River-Frontal Gastineau Channel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -133.947200,56.977200 ]
+    },
+    "properties": {
+    "city":"Kake",
+    "tot_floods":3,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":2,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Kake is located on the northwest coast of Kupreanof Island along Keku Strait, 38 air miles northwest of Petersburg and 95 air miles southwest of Juneau.",
+    "pronunciation":"cake",
+    "watershed":"Hood Bay-Frontal Chatham Strait"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -143.615900,70.127600 ]
+    },
+    "properties": {
+    "city":"Kaktovik",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Kaktovik lies on the north shore of Barter Island, between the Okpilak and Jago Rivers on the Beaufort Sea coast. It lies in the 19.6-million-acre Arctic National Wildlife Refuge, an occasional calving ground for the porcupine caribou herd.",
+    "pronunciation":"kack toh vick",
+    "watershed":"Jago River-Frontal Beaufort Sea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.723800,64.324700 ]
+    },
+    "properties": {
+    "city":"Kaltag",
+    "tot_floods":6,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":2,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":1,
+    "d_1949":1,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":2,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Kaltag is located on the west bank of the Yukon River, 75 miles west of Galena and 335 miles west of Fairbanks. It is situated on a 35-foot bluff at the base of the Nulato Hills, west of the Innoko National Wildlife Refuge.",
+    "pronunciation":"kal' tag",
+    "watershed":"Big Eightmile Island-Yukon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -154.436700,57.562500 ]
+    },
+    "properties": {
+    "city":"Karluk",
+    "tot_floods":1,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Karluk is located on the west coast of Kodiak Island, on the Karluk River, 88 air miles southwest of Kodiak and 301 miles southwest of Anchorage.",
+    "pronunciation":"kar' luck",
+    "watershed":"Karluk River-Frontal Shelikof Strait"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.256800,60.324900 ]
+    },
+    "properties": {
+    "city":"Kasilof",
+    "tot_floods":2,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Kasilof is located on the east shore of Cook Inlet on the Kenai Peninsula. It lies on the Sterling Highway, 12 miles south of the City of Kenai.",
+    "pronunciation":"kuh see' loff",
+    "watershed":"Lower Kenai River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.254600,60.553700 ]
+    },
+    "properties": {
+    "city":"Kenai",
+    "tot_floods":2,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Kenai is located on the western coast of the Kenai Peninsula, fronting Cook Inlet. It lies on the western boundary of the Kenai National Wildlife Refuge, on the Kenai Spur Highway. It is approximately 65 air miles and 155 highway miles southwest of Ancho",
+    "pronunciation":"kee' nigh",
+    "watershed":"Lower Kenai River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -131.677400,55.353500 ]
+    },
+    "properties": {
+    "city":"Ketchikan",
+    "tot_floods":7,
+    "tot_sev_unknown":5,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":2,
+    "d_1979":2,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Ketchikan is located on the southwestern coast of Revillagigedo Island, opposite Gravina Island, near the southern boundary of Alaska. It is 679 miles north of Seattle and 235 miles south of Juneau. The 2.2 million acre Misty Fiords National Monument lie",
+    "pronunciation":"ket' chuh kan",
+    "watershed":"Carlanna Creek-Frontal Tongass Narrows"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -160.437300,66.971700 ]
+    },
+    "properties": {
+    "city":"Kiana",
+    "tot_floods":2,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":2,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Kiana is located on the north bank of the Kobuk River, 57 air miles east of Kotzebue.",
+    "pronunciation":"key ann' uh",
+    "watershed":"Portage Creek-Kobuk River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -156.668800,58.693500 ]
+    },
+    "properties": {
+    "city":"King Salmon",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"King Salmon is located on the north bank of the Naknek River on the Alaska Peninsula, about 15 miles upriver from Naknek. It is 284 miles southwest of Anchorage.",
+    "pronunciation":"-",
+    "watershed":"Naknek River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -164.037900,59.936400 ]
+    },
+    "properties": {
+    "city":"Kipnuk",
+    "tot_floods":12,
+    "tot_sev_unknown":7,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":1,
+    "tot_sev_major":4,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":11,
+    "d_2019":0,
+    "desc":"Kipnuk is located on the west bank of the Kugkaktlik River in the Yukon-Kuskokwim Delta, 85 air miles southwest of Bethel. It lies four miles inland from the Bering Sea coast.",
+    "pronunciation":"kip' nuck",
+    "watershed":"Ninglick River-Frontal Hazen Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -164.535500,67.725800 ]
+    },
+    "properties": {
+    "city":"Kivalina",
+    "tot_floods":7,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":3,
+    "tot_sev_major":4,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":5,
+    "d_2019":2,
+    "desc":"Kivalina is at the tip of an 8-mile barrier reef located between the Chukchi Sea and Kivalina River. It lies 80 air miles northwest of Kotzebue.",
+    "pronunciation":"kiv uh lee' nuh",
+    "watershed":"Kivalina River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -133.099100,55.553500 ]
+    },
+    "properties": {
+    "city":"Klawock",
+    "tot_floods":4,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":2,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Klawock is located on the west coast of Prince of Wales Island, on Klawock Inlet, across from Klawock Island. It is 7 miles road north of Craig, 24 road miles from Hollis, and 56 air miles west of Ketchikan.",
+    "pronunciation":"klaw wock'",
+    "watershed":"San Alberto Bay-Frontal Ursua Channel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.895900,59.400400 ]
+    },
+    "properties": {
+    "city":"Klukwan",
+    "tot_floods":4,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":2,
+    "desc":"Klukwan is located on the north bank of the Chilkat River, about 22 miles north of Haines, off the Haines Highway. It lies at the junction of the Kleheni and Tsirku Rivers, 100 miles northeast of Juneau. It is the only inland settlement in Southeast Alas",
+    "pronunciation":"kluck' wahn",
+    "watershed":"Tsirku River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -156.881900,66.908000 ]
+    },
+    "properties": {
+    "city":"Kobuk",
+    "tot_floods":10,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":4,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":2,
+    "d_2009":4,
+    "d_2019":3,
+    "desc":"Kobuk is located on the right bank of the Kobuk River, about 7 miles northeast of Shungnak and 128 air miles northeast of Kotzebue. It is the smallest village in the Northwest Arctic Borough.",
+    "pronunciation":"koh' buck",
+    "watershed":"Wesley Creek-Kobuk River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.389800,57.796200 ]
+    },
+    "properties": {
+    "city":"Kodiak",
+    "tot_floods":8,
+    "tot_sev_unknown":5,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":3,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":2,
+    "desc":"Kodiak is located near the northwestern tip of Kodiak Island in the Gulf of Alaska. Kodiak Island (aka: the emerald isle) is the largest island in Alaska and is the second largest island in the US. Kodiak National Wildlife Refuge encompasses nearly 1.9",
+    "pronunciation":"koh' dee ack",
+    "watershed":"Buskin River-Chiniak Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.285700,59.726400 ]
+    },
+    "properties": {
+    "city":"Koliganek",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Koliganek is located on the left bank of the Nushagak River and lies 65 miles northeast of Dillingham. The village hopes to get its own zip code, although it currently shares one with Dillingham.",
+    "pronunciation":"koh lig' uh neck",
+    "watershed":"Tunravik Creek-Nushagak River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -162.887100,59.959400 ]
+    },
+    "properties": {
+    "city":"Kongiganak",
+    "tot_floods":1,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Kongiganak is located on the west shore of Kuskokwim Bay, west of the mouth of the Kuskokwim River. It lies 70 miles southwest of Bethel and 451 miles west of Anchorage.",
+    "pronunciation":"kong ee' guh nuk",
+    "watershed":"Lower Eek River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -163.554900,63.031600 ]
+    },
+    "properties": {
+    "city":"Kotlik",
+    "tot_floods":6,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":1,
+    "tot_sev_major":3,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":2,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Kotlik is located on the east bank of the Kotlik Slough, 35 miles northeast of Emmonak in the Yukon-Kuskokwim Delta. It lies 165 air miles northwest of Bethel and 460 miles from Anchorage.",
+    "pronunciation":"kawt' lick",
+    "watershed":"Outlet Yukon River-Frontal Bering Sea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -162.586900,66.895900 ]
+    },
+    "properties": {
+    "city":"Kotzebue",
+    "tot_floods":5,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":4,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":2,
+    "d_2009":3,
+    "d_2019":0,
+    "desc":"Kotzebue is on the Baldwin Peninsula in Kotzebue Sound, on a 3-mile long spit, which ranges in width from 1,100 to 3,600 feet. It is located near the discharges of the Kobuk, Noatak, and Selawick Rivers, 549 air miles northwest of Anchorage and 26 miles",
+    "pronunciation":"kawt' zuh byoo",
+    "watershed":"June Creek-Frontal Kotzebue Sound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.157200,64.932000 ]
+    },
+    "properties": {
+    "city":"Koyuk",
+    "tot_floods":7,
+    "tot_sev_unknown":6,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"1",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":2,
+    "d_1979":2,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Koyuk is located at the mouth of the Koyuk River, at the northeastern end of Norton Bay on the Seward Peninsula, 90 air miles northeast of Nome.",
+    "pronunciation":"koy' yuck",
+    "watershed":"Tubutulik River-Frontal Norton Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.704300,64.881600 ]
+    },
+    "properties": {
+    "city":"Koyukuk",
+    "tot_floods":9,
+    "tot_sev_unknown":4,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":4,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"1",
+    "d_1939":1,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":1,
+    "d_2009":3,
+    "d_2019":0,
+    "desc":"Koyukuk is located on the Yukon River near the mouth of the Koyukuk River, 30 miles west of Galena and 290 air miles west of Fairbanks. It lies adjacent to the Koyukuk National Wildlife Refuge and the Innoko National Wildlife Refuge.",
+    "pronunciation":"koy' yuh kuck",
+    "watershed":"Nikolai Slough-Koyukuk River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.435800,60.812200 ]
+    },
+    "properties": {
+    "city":"Kwethluk",
+    "tot_floods":11,
+    "tot_sev_unknown":6,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":1,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":4,
+    "d_1989":2,
+    "d_1999":1,
+    "d_2009":3,
+    "d_2019":1,
+    "desc":"Kwethluk is a Yup'ik community located 12 air miles east of Bethel on the Kwethluk River at the junction with the Kuskokuok Slough of the Kuskokwim River. It is the second largest community along the Lower Kuskokwim River.",
+    "pronunciation":"kweth' luk",
+    "watershed":"Israthorak Creek-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.437000,61.355400 ]
+    },
+    "properties": {
+    "city":"Lime Village",
+    "tot_floods":2,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Lime Village is located on the south bank of the Stony River, 50 miles southeast of its junction with the Kuskokwim River. The village is 111 air miles south of McGrath, 137 miles east of Aniak, and 185 miles west of Anchorage.",
+    "pronunciation":"-",
+    "watershed":"Stony River Cutoff-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.548500,65.522800 ]
+    },
+    "properties": {
+    "city":"Livengood",
+    "tot_floods":4,
+    "tot_sev_unknown":4,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":3,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Livengood lies 50 miles northwest of Fairbanks on the Dalton Highway, at its junction with the Elliott Highway.",
+    "pronunciation":"lie' vun good",
+    "watershed":"Headwaters Tolovana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -160.361500,61.512100 ]
+    },
+    "properties": {
+    "city":"Lower Kalskag",
+    "tot_floods":5,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":1,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Lower Kalskag is located on the north bank of the Kuskokwim River, 2 miles downriver from Upper Kalskag. It lies 26 miles west of Aniak, 89 miles northeast of Bethel, and 350 miles west of Anchorage.",
+    "pronunciation":"kal' skag",
+    "watershed":"Aniak Slough-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.637200,64.995900 ]
+    },
+    "properties": {
+    "city":"Manley Hot Springs",
+    "tot_floods":5,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":2,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":3,
+    "desc":"Manley Hot Springs is located about 5 miles north of the Tanana River on Hot Springs Slough, at the end of the Elliott Highway, 160 road miles west of Fairbanks.",
+    "pronunciation":"man' lee",
+    "watershed":"Hot Springs Slough-Tanana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -162.087000,61.879100 ]
+    },
+    "properties": {
+    "city":"Marshall",
+    "tot_floods":8,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":1,
+    "tot_sev_major":3,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":2,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":4,
+    "d_2019":1,
+    "desc":"Marshall is located on the north bank of Polte Slough, north of Arbor Island, on the east bank of the Yukon River in the Yukon-Kuskokwim Delta. It lies on the northeastern boundary of the Yukon Delta National Wildlife Refuge.",
+    "pronunciation":"-",
+    "watershed":"Lower Atchuelinguk River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -142.910100,61.433100 ]
+    },
+    "properties": {
+    "city":"McCarthy",
+    "tot_floods":6,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":5,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":3,
+    "d_2019":2,
+    "desc":"McCarthy lies 61 miles east of Chitina off the Edgerton Highway. It is on the Kennicott River at the mouth of McCarthy Creek, 12 miles northeast of the junction of the Nizina and Chitina Rivers, in the heart of the Wrangell-St. Elias National Park and Pr",
+    "pronunciation":"-",
+    "watershed":"Kennicott Glacier-Kennicott River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.596100,62.953400 ]
+    },
+    "properties": {
+    "city":"McGrath",
+    "tot_floods":8,
+    "tot_sev_unknown":4,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":3,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"1",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":2,
+    "d_2009":3,
+    "d_2019":0,
+    "desc":"McGrath is located 221 miles northwest of Anchorage and 269 miles southwest of Fairbanks in Interior Alaska. It is adjacent to the Kuskokwim River, directly south of its confluence with the Takotna River.",
+    "pronunciation":"muh grath'",
+    "watershed":"Medicine Creek-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.916900,63.732300 ]
+    },
+    "properties": {
+    "city":"McKinley Park",
+    "tot_floods":4,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":3,
+    "desc":"McKinley Park is on the George Parks Highway at the entrance to Denali National Park. The park is home to Mount McKinley or Denali, as it known by Alaskans. At 20,320 feet, it is the highest mountain on the North American continent.",
+    "pronunciation":"muh kin' lee",
+    "watershed":"Riley Creek-Nenana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -166.189100,60.386400 ]
+    },
+    "properties": {
+    "city":"Mekoryuk",
+    "tot_floods":4,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":1,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":2,
+    "desc":"Mekoryuk is at the mouth of Shoal Bay on the north shore of Nunivak Island in the Bering Sea. The island lies 30 miles off the coast. It is 149 air miles west of Bethel and 553 miles west of Anchorage. Mekoryuk is part of the Yukon Delta National Wildlif",
+    "pronunciation":"mee kore' ee yuck",
+    "watershed":"Ninglick River-Frontal Hazen Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -143.797600,62.929400 ]
+    },
+    "properties": {
+    "city":"Mentasta Lake",
+    "tot_floods":2,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Mentasta Lake is located 6 miles off the Tok-Slana Cutoff of the Glenn Highway on the west side of Mentasta Pass, 38 miles southwest of Tok Junction.",
+    "pronunciation":"men tass' tuh",
+    "watershed":"Headwaters Slana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -131.577300,55.126200 ]
+    },
+    "properties": {
+    "city":"Metlakatla",
+    "tot_floods":3,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Metlakatla is located at Port Chester on the west coast of Annette Island, 15 miles south of Ketchikan. By air, it is 3.5 hours from Anchorage and 1.5 hours from Seattle.",
+    "pronunciation":"met luh kat' luh",
+    "watershed":"Bostwick Inlet-Frontal Nichols Passage"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.348300,65.152200 ]
+    },
+    "properties": {
+    "city":"Minto",
+    "tot_floods":1,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Minto is located on the west bank of the Tolovana River, 130 miles northwest of Fairbanks. It lies on an 11-mile spur road off of the Elliott Highway.",
+    "pronunciation":"min' toe",
+    "watershed":"Montana Creek-Tolovana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -143.013000,62.371300 ]
+    },
+    "properties": {
+    "city":"Nabesna",
+    "tot_floods":3,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":2,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"This Village began as a camp of the Nabesna Mining Company, from which its name was derived. Its first post office was established in 1909.",
+    "pronunciation":"na bess' nuh",
+    "watershed":"Jack Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.746300,61.528600 ]
+    },
+    "properties": {
+    "city":"Napaimute",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Napaimute is located on the north bank of the Kuskokwim River, 28 miles east of Aniak in the Kilbuck-Kuskokwim Mountains.",
+    "pronunciation":"nah pah' myoot",
+    "watershed":"Sue Creek-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.970900,60.694100 ]
+    },
+    "properties": {
+    "city":"Napakiak",
+    "tot_floods":9,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":4,
+    "tot_sev_moderate":2,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":1,
+    "d_1989":2,
+    "d_1999":2,
+    "d_2009":2,
+    "d_2019":1,
+    "desc":"Napakiak is on the north bank of the Kuskokwim River, 15 miles southwest of Bethel. It is located on an island between the Kuskokwim River and Johnson's Slough. It lies 407 miles west of Anchorage.",
+    "pronunciation":"nuh pack' ee ack",
+    "watershed":"Tupuknuk Slough-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.760800,60.707800 ]
+    },
+    "properties": {
+    "city":"Napaskiak",
+    "tot_floods":12,
+    "tot_sev_unknown":4,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":3,
+    "tot_sev_major":4,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"1",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":0,
+    "d_1989":5,
+    "d_1999":1,
+    "d_2009":3,
+    "d_2019":1,
+    "desc":"Napaskiak is located on the east bank of the Kuskokwim River, along the Napaskiak Slough, 7 miles southeast of Bethel.",
+    "pronunciation":"nuh pass' kee ack",
+    "watershed":"Tupuknuk Slough-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.088300,64.561900 ]
+    },
+    "properties": {
+    "city":"Nenana",
+    "tot_floods":8,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":5,
+    "tot_sev_moderate":1,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":1,
+    "d_2009":2,
+    "d_2019":3,
+    "desc":"Nenana is located in Interior Alaska, 55 road miles southwest of Fairbanks on the George Parks Highway. Nenana is located at mile 412 of the Alaska Railroad, on the south bank of the Tanana River, just east of the mouth of the Nenana River. It lies 304 r",
+    "pronunciation":"nuh nann' uh",
+    "watershed":"Bonanza Creek-Tanana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.313000,59.450300 ]
+    },
+    "properties": {
+    "city":"New Stuyahok",
+    "tot_floods":5,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":1,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":5,
+    "d_2019":0,
+    "desc":"New Stuyahok is located on the Nushagak River, about 12 miles upriver from Ekwok and 52 miles northeast of Dillingham. The village has been constructed at two elevations -- one 25 feet above river level and one about 40 feet above river level.",
+    "pronunciation":"stew' yuh hawk",
+    "watershed":"Tunravik Creek-Nushagak River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -164.629400,60.936900 ]
+    },
+    "properties": {
+    "city":"Newtok",
+    "tot_floods":4,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":2,
+    "desc":"Newtok is on the Ninglick River north of Nelson Island in the Yukon-Kuskokwim Delta Region. It is 94 miles northwest of Bethel.",
+    "pronunciation":"noo' tock",
+    "watershed":"Ninglick River-Frontal Hazen Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -164.722100,60.477000 ]
+    },
+    "properties": {
+    "city":"Nightmute",
+    "tot_floods":6,
+    "tot_sev_unknown":4,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":4,
+    "d_2019":1,
+    "desc":"Nightmute is located on Nelson Island, in western Alaska. It is 18 miles upriver from Toksook Bay and 100 miles west of Bethel.",
+    "pronunciation":"nite' myoot",
+    "watershed":"Ninglick River-Frontal Hazen Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.296900,60.734600 ]
+    },
+    "properties": {
+    "city":"Nikiski",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Nikiski is located on the Kenai Peninsula, 9 miles north of the City of Kenai, off of the Sterling Highway. It is also known as Port Nikiski and Nikishka.",
+    "pronunciation":"nih kiss' kee",
+    "watershed":"Bishop Creek-Frontal Cook Inlet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -154.374100,63.013500 ]
+    },
+    "properties": {
+    "city":"Nikolai",
+    "tot_floods":2,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":2,
+    "desc":"Nikolai is located in Interior Alaska on the south fork of the Kuskokwim River, 46 air miles east of McGrath.",
+    "pronunciation":"nick' oh lee",
+    "watershed":"Medicine Creek-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.675800,60.043200 ]
+    },
+    "properties": {
+    "city":"Ninilchik",
+    "tot_floods":5,
+    "tot_sev_unknown":5,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":3,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":0,
+    "desc":"Ninilchik lies on the west coast of the Kenai Peninsula on the Sterling Highway, 38 miles southwest of the City of Kenai and 188 road miles from Anchorage. The community lies between mileposts 119 and 144 of the Sterling Highway; a business center has de",
+    "pronunciation":"nuh nill' chick",
+    "watershed":"Lower Kenai River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -162.988500,67.571800 ]
+    },
+    "properties": {
+    "city":"Noatak",
+    "tot_floods":3,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":3,
+    "desc":"Noatak is located on the west bank of the Noatak River, 55 miles north of Kotzebue and 70 miles north of the Arctic Circle. This is the only settlement on the 396 mile-long Noatak River, just west of the 66-million acre Noatak National Preserve.",
+    "pronunciation":"no' uh tack",
+    "watershed":"Kuchoruk Creek-Noatak River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -165.384100,64.497600 ]
+    },
+    "properties": {
+    "city":"Nome",
+    "tot_floods":24,
+    "tot_sev_unknown":12,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":0,
+    "tot_sev_major":9,
+    "d_1909":2,
+    "d_1919":"1",
+    "d_1929":"0",
+    "d_1939":1,
+    "d_1949":3,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":5,
+    "d_1989":2,
+    "d_1999":1,
+    "d_2009":5,
+    "d_2019":3,
+    "desc":"Nome was built along the Bering Sea on the south coast of the Seward Peninsula, facing Norton Sound. It lies 539 air miles northwest of Anchorage, a 75-minute flight. It lies 102 miles south of the Arctic Circle and 161 miles east of Russia.",
+    "pronunciation":"-",
+    "watershed":"Snake River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.043700,66.832900 ]
+    },
+    "properties": {
+    "city":"Noorvik",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Noorvik is located on the right bank of the Nazuruk Channel of the Kobuk River, 33 miles northwest of Selawik and 45 miles east of Kotzebue. The village is downriver from the 1.7-million acre Kobuk Valley National Park.",
+    "pronunciation":"nor' vick",
+    "watershed":"Ekichuk Lake-Frontal Hotham Inlet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.368800,64.746300 ]
+    },
+    "properties": {
+    "city":"North Pole",
+    "tot_floods":6,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":4,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":2,
+    "d_2019":3,
+    "desc":"North Pole is located 14 miles southeast of Fairbanks on the Richardson Highway. It lies 386 miles north of Anchorage and 2,347 miles northwest of Seattle.",
+    "pronunciation":"-",
+    "watershed":"Lower Chena River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -141.951700,62.982200 ]
+    },
+    "properties": {
+    "city":"Northway Village",
+    "tot_floods":3,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":1,
+    "desc":"Northway Village is located between Nabesna River and Skate Lake, on a 9-mile spur road off of the Alaskan Highway. It lies in the Tetlin National Wildlife Refuge, 42 miles from the Canadian border. Northway presently consists of three dispersed settleme",
+    "pronunciation":"-",
+    "watershed":"Outlet Chisana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.998900,70.217200 ]
+    },
+    "properties": {
+    "city":"Nuiqsut",
+    "tot_floods":2,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Nuiqsut is located on the west bank of the Nechelik Channel of the Colville River Delta, about 35 miles from the Beaufort Sea coast.",
+    "pronunciation":"new wick' sit",
+    "watershed":"Colville River Delta-Frontal Harrison Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -158.108700,64.717800 ]
+    },
+    "properties": {
+    "city":"Nulato",
+    "tot_floods":8,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":2,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":1,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":1,
+    "d_2009":3,
+    "d_2019":1,
+    "desc":"Nulato is located on the west bank of the Yukon River, 35 miles west of Galena and 310 air miles west of Fairbanks. It lies in the Nulato Hills, across the river from the Innoko National Wildlife Refuge.",
+    "pronunciation":"noo law' toe",
+    "watershed":"Patsy Slough-Yukon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -164.848100,62.531800 ]
+    },
+    "properties": {
+    "city":"Nunam Iqua",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Nunam Iqua is on a south fork of the Yukon River, about 9 miles south of Alakanuk and 18 miles southwest of Emmonak on the Yukon-Kuskokwim Delta. It lies 500 miles northwest of Anchorage.",
+    "pronunciation":"noo' nam ick' wa",
+    "watershed":"Outlet Yukon River-Frontal Bering Sea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.771400,60.722600 ]
+    },
+    "properties": {
+    "city":"Oscarville",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Oscarville is located on the north bank of the Kuskokwim River, opposite Napaskiak. It lies 6 miles southwest of Bethel and 401 miles west of Anchorage.",
+    "pronunciation":"-",
+    "watershed":"Tupuknuk Slough-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.109300,61.593400 ]
+    },
+    "properties": {
+    "city":"Palmer",
+    "tot_floods":4,
+    "tot_sev_unknown":4,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":2,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Palmer is located in the center of the lush farmlands of the Matanuska Valley, 42 miles northeast of Anchorage on the Glenn Highway.",
+    "pronunciation":"pall' mur",
+    "watershed":"Lower Matanuska River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.496000,63.032500 ]
+    },
+    "properties": {
+    "city":"Paxson",
+    "tot_floods":5,
+    "tot_sev_unknown":4,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":2,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":1,
+    "desc":"Paxson lies on Paxson Lake, at mile 185 of the Richardson Highway, at its intersection with the Denali Highway. It is south of Delta Junction and 62 miles north of Gulkana.",
+    "pronunciation":"pack' sun",
+    "watershed":"Paxson Lake-Gulkana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -132.952300,56.814300 ]
+    },
+    "properties": {
+    "city":"Petersburg",
+    "tot_floods":4,
+    "tot_sev_unknown":4,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":3,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Petersburg is located on the northwest end of Mitkof Island, where the Wrangell Narrows meet Frederick Sound. It lies midway between Juneau and Ketchikan, about 120 miles from either community.",
+    "pronunciation":"-",
+    "watershed":"Thomas Bay-Frontal Frederick Sound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.732200,62.372800 ]
+    },
+    "properties": {
+    "city":"Petersville",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Petersville is located on Petersville Road, at mile 114.9 of the George Parks Highway, west of Trapper Creek. Petersville Road is 17 miles north of the junction to Talkeetna Spur Road. Peters Creek and the Deshka River flow through the community.",
+    "pronunciation":"-",
+    "watershed":"Kroto Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -162.892000,61.936200 ]
+    },
+    "properties": {
+    "city":"Pilot Station",
+    "tot_floods":5,
+    "tot_sev_unknown":4,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":2,
+    "d_1999":2,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Pilot Station is located on the northwest bank of the Yukon River, 11 miles east of St. Mary's and 26 miles west of Marshall on the Yukon-Kuskokwim Delta.",
+    "pronunciation":"-",
+    "watershed":"Poltes Slough-Yukon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -163.287000,62.031800 ]
+    },
+    "properties": {
+    "city":"Pitkas Point",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Pitkas Point is located near the junction of the Yukon and Andreafsky Rivers, 5 miles northwest of St. Mary's on the Yukon-Kuskokwim Delta. It lies 3 miles by road from the St. Mary's airport.",
+    "pronunciation":"pit' kus",
+    "watershed":"Lower Andreafsky River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -133.621200,56.351400 ]
+    },
+    "properties": {
+    "city":"Point Baker",
+    "tot_floods":2,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":2,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Located on the northern tip of Prince of Wales Island, Point Baker is 142 miles south of Juneau and 50 miles west of Wrangell.",
+    "pronunciation":"-",
+    "watershed":"Shakan Bay-Frontal Sumner Strait"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.985200,60.832100 ]
+    },
+    "properties": {
+    "city":"Portage",
+    "tot_floods":2,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Portage is a former setlement on the Turnagain Arm, about 47 miles south of Anchorage. It was a major stop on the Alaska Railroad. The town was destroyed in the earthquake on Good Friday, 1964.",
+    "pronunciation":"-",
+    "watershed":"Placer River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.352600,60.357600 ]
+    },
+    "properties": {
+    "city":"Primrose",
+    "tot_floods":6,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":1,
+    "d_2009":2,
+    "d_2019":1,
+    "desc":"Primrose is on Kenai Lake, off of the Seward Highway, at mile 18.4 of the Alaska Railroad. It lies 15 miles north of Seward.",
+    "pronunciation":"-",
+    "watershed":"Upper Kenai River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.337200,70.255300 ]
+    },
+    "properties": {
+    "city":"Prudhoe Bay",
+    "tot_floods":1,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Prudhoe Bay is adjacent to the Beaufort Sea, east of Nuiqsut.",
+    "pronunciation":"proo' doh",
+    "watershed":"Lower Sagavanirktok River-Frontal Beaufort Sea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.897200,59.751600 ]
+    },
+    "properties": {
+    "city":"Quinhagak",
+    "tot_floods":5,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":1,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":2,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Quinhagak is on the Kanektok River on the east shore of Kuskokwim Bay, less than a mile from the Bering Sea coast. It lies 71 miles southwest of Bethel.",
+    "pronunciation":"quinn' uh hawk",
+    "watershed":"Lower Eek River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.171800,65.503400 ]
+    },
+    "properties": {
+    "city":"Rampart",
+    "tot_floods":1,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Rampart is located on the south bank of the Yukon River, approximately 75 miles upstream from its junction with the Tanana River, 100 miles northwest of Fairbanks.",
+    "pronunciation":"ram' part",
+    "watershed":"Twentymile Creek-Yukon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.334700,61.782300 ]
+    },
+    "properties": {
+    "city":"Red Devil",
+    "tot_floods":6,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":3,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":1,
+    "d_2009":2,
+    "d_2019":1,
+    "desc":"Red Devil is located on both banks of the Kuskokwim River, at the mouth of Red Devil Creek. It lies 75 air miles northeast of Aniak, 161 miles northeast of Bethel, and 250 miles west of Anchorage.",
+    "pronunciation":"-",
+    "watershed":"Vreeland Creek-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -155.467000,64.741200 ]
+    },
+    "properties": {
+    "city":"Ruby",
+    "tot_floods":8,
+    "tot_sev_unknown":5,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":1,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":5,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Ruby is located on the south bank of the Yukon River, in the Kilbuck-Kuskokwim Mountains. It is about 50 air miles east of Galena and 230 air miles west of Fairbanks. Ruby lies adjacent to the Nowitna National Wildlife Refuge.",
+    "pronunciation":"roo' bee",
+    "watershed":"Fish Islands-Yukon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.323500,61.785800 ]
+    },
+    "properties": {
+    "city":"Russian Mission",
+    "tot_floods":5,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":1,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":1,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":0,
+    "desc":"Russian Mission is located on the west bank of the Yukon River in the Yukon-Kuskokwim Delta, 25 miles southeast of Marshall. It lies 70 air miles northeast of Bethel and 376 miles west of Anchorage.",
+    "pronunciation":"-",
+    "watershed":"Lower Atchuelinguk River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -163.181100,62.052300 ]
+    },
+    "properties": {
+    "city":"Saint Mary's",
+    "tot_floods":2,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"St. Mary's is located on the north bank of the Andreafsky River, 5 miles from its confluence with the Yukon River. It lies 450 air miles west-northwest of Anchorage. The City of St. Mary's encompasses the Yup'ik villages of St. Mary's and Andreafsky.",
+    "pronunciation":"-",
+    "watershed":"Lower Andreafsky River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.937800,64.551600 ]
+    },
+    "properties": {
+    "city":"Salcha",
+    "tot_floods":29,
+    "tot_sev_unknown":5,
+    "tot_sev_minor":14,
+    "tot_sev_moderate":8,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":2,
+    "d_2009":17,
+    "d_2019":9,
+    "desc":"Salcha is located at the mouth of the Salcha River, 33 miles southeast of Fairbanks on the Richardson Highway, near what was once the Aurora Lodge.",
+    "pronunciation":"sall' chuh",
+    "watershed":"Moose Creek-Tanana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -170.476700,63.696500 ]
+    },
+    "properties": {
+    "city":"Savoonga",
+    "tot_floods":5,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":4,
+    "d_2019":0,
+    "desc":"Savoonga is located on the northern coast of St. Lawrence Island in the Bering Sea, 164 miles west of Nome. It lies 39 miles southeast of Gambell.",
+    "pronunciation":"suh voon' guh",
+    "watershed":"Feather River-Frontal Bering Sea"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -165.581900,61.841200 ]
+    },
+    "properties": {
+    "city":"Scammon Bay",
+    "tot_floods":7,
+    "tot_sev_unknown":4,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":1,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":2,
+    "d_1989":2,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":2,
+    "desc":"Scammon Bay is on the south bank of the Kun River, one mile from the Bering Sea. It lies to the north of the 2,300-foot Askinuk Mountains on the Yukon-Kuskokwim Delta.",
+    "pronunciation":"skamm' in",
+    "watershed":"Anuk River-Yukon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.715000,59.438700 ]
+    },
+    "properties": {
+    "city":"Seldovia",
+    "tot_floods":2,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Seldovia is on the Kenai Peninsula on the south shore of Kachemak Bay, a 15-minute flight across from Homer. Flight time to Anchorage is 45 minutes.",
+    "pronunciation":"sell doav' ee uh",
+    "watershed":"West Arm Nuka Bay-Frontal Nuka Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.443300,60.130000 ]
+    },
+    "properties": {
+    "city":"Seward",
+    "tot_floods":23,
+    "tot_sev_unknown":5,
+    "tot_sev_minor":9,
+    "tot_sev_moderate":4,
+    "tot_sev_major":5,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":3,
+    "d_1999":2,
+    "d_2009":9,
+    "d_2019":8,
+    "desc":"Seward is situated on Resurrection Bay on the east coast of the Kenai Peninsula, 125 highway miles south of Anchorage. It lies at the foot of Mount Marathon and is the gateway to the Kenai Fjords National Park. Bear Creek and Lowell Point are adjacent to",
+    "pronunciation":"soo' ward",
+    "watershed":"Resurrection River-Frontal Resurrection Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -159.532800,62.654700 ]
+    },
+    "properties": {
+    "city":"Shageluk",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Shageluk is located on the east bank of the Innoko River, approximately 20 miles east of Anvik and 34 miles northeast of Holy Cross. The Innoko is a tributary of the Yukon River.",
+    "pronunciation":"shag' uh look",
+    "watershed":"Shageluk Slough-Innoko River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -161.194200,64.353800 ]
+    },
+    "properties": {
+    "city":"Shaktoolik",
+    "tot_floods":6,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":5,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":3,
+    "d_2019":3,
+    "desc":"Shaktoolik is located on the east shore of Norton Sound. It lies 125 miles east of Nome and 33 miles north of Unalakleet.",
+    "pronunciation":"shack too' lick",
+    "watershed":"Norton Bay-Frontal Norton Sound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -166.072700,66.255700 ]
+    },
+    "properties": {
+    "city":"Shishmaref",
+    "tot_floods":6,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":4,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":3,
+    "d_2019":2,
+    "desc":"Shishmaref is located on Sarichef Island, in the Chukchi Sea, just north of the Bering Strait. Shishmaref is 5 miles from the mainland, 126 miles north of Nome, and 100 miles southwest of Kotzebue. The village is surrounded by the 2.6 million-acre Bering",
+    "pronunciation":"shish' muh reff",
+    "watershed":"Serpentine River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.136400,66.888100 ]
+    },
+    "properties": {
+    "city":"Shungnak",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Shungnak is located on the west bank of the Kobuk River, about 150 miles east of Kotzebue. The original settlement was 10 miles further upstream at Kobuk.",
+    "pronunciation":"shung' nack",
+    "watershed":"Wesley Creek-Kobuk River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.344800,57.058300 ]
+    },
+    "properties": {
+    "city":"Sitka",
+    "tot_floods":6,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":1,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":2,
+    "desc":"Sitka is located on the west coast of Baranof Island fronting the Pacific Ocean, on Sitka Sound. An extinct volcano, Mount Edgecumbe, rises 3,200 feet above the community. It is 95 air miles southwest of Juneau and 185 miles northwest of Ketchikan. Seatt",
+    "pronunciation":"sit' kuh",
+    "watershed":"Hood Bay-Frontal Chatham Strait"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.307600,59.463200 ]
+    },
+    "properties": {
+    "city":"Skagway",
+    "tot_floods":4,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":1,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Skagway is located 90 miles northeast of Juneau at the northernmost end of Lynn Canal, at the head of Taiya Inlet. It lies 108 road miles south of Whitehorse and is just west of the Canadian border with British Columbia.",
+    "pronunciation":"skag' way",
+    "watershed":"Skagway River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.195700,61.966200 ]
+    },
+    "properties": {
+    "city":"Skwentna",
+    "tot_floods":1,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Skwentna lies on the south bank of the Skwentna River at its junction with Eight Mile Creek, 70 air miles northwest of Anchorage in the Mat-Su Borough. It lies in the Yentna River Valley",
+    "pronunciation":"-",
+    "watershed":"Kroto Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -143.964400,62.709600 ]
+    },
+    "properties": {
+    "city":"Slana",
+    "tot_floods":4,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Slana stretches along the Nabesna Road, which runs south of the Tok Cutoff at mile 63. It lies at the junction of the Slana and Copper Rivers, 53 miles southwest of Tok.",
+    "pronunciation":"slan' uh",
+    "watershed":"Outlet Slana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -157.170400,61.702700 ]
+    },
+    "properties": {
+    "city":"Sleetmute",
+    "tot_floods":7,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":0,
+    "tot_sev_major":3,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":1,
+    "d_1989":2,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":1,
+    "desc":"Sleetmute is located on the east bank of the Kuskokwim River, 1.5 miles north of its junction with the Holitna River. It lies 79 miles east of Aniak, 166 miles northeast of Bethel, and 243 miles west of Anchorage.",
+    "pronunciation":"sleet' myoot",
+    "watershed":"Vreeland Creek-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.069100,60.491800 ]
+    },
+    "properties": {
+    "city":"Soldotna",
+    "tot_floods":9,
+    "tot_sev_unknown":5,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":0,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":3,
+    "d_2019":4,
+    "desc":"Soldotna is on the Kenai Peninsula, 150 highway miles south of Anchorage, at the junction of the Sterling and Kenai Spur Highways. It lies 10 miles inland from Cook Inlet and borders the Kenai River.",
+    "pronunciation":"soul daht' nuh",
+    "watershed":"Lower Kenai River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -164.441600,64.560600 ]
+    },
+    "properties": {
+    "city":"Solomon",
+    "tot_floods":2,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":2,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Solomon is located on the west bank of the Solomon River, 30 miles east of Nome. It lies one mile north of Norton Sound.",
+    "pronunciation":"sahl' oh man",
+    "watershed":"Solomon River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -162.287700,63.519400 ]
+    },
+    "properties": {
+    "city":"Stebbins",
+    "tot_floods":5,
+    "tot_sev_unknown":5,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"1",
+    "d_1969":1,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Stebbins is located on the northwest coast of St. Michael Island, on Norton Sound. It lies 8 miles north of St. Michael and 120 miles southeast of Nome.",
+    "pronunciation":"steb' inz",
+    "watershed":"South River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.797000,60.537000 ]
+    },
+    "properties": {
+    "city":"Sterling",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Sterling is located on the Sterling Highway at the junction of the Moose and Kenai Rivers, 18 miles east of the City of Kenai.",
+    "pronunciation":"-",
+    "watershed":"Lower Kenai River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.084500,66.004500 ]
+    },
+    "properties": {
+    "city":"Stevens Village",
+    "tot_floods":5,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":0,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":2,
+    "desc":"Stevens Village is located on the north bank of the Yukon River, 17 miles upstream of the Dalton Highway bridge crossing and 90 air miles northwest of Fairbanks.",
+    "pronunciation":"-",
+    "watershed":"Pat Creek-Dall River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.633900,61.498400 ]
+    },
+    "properties": {
+    "city":"Susitna",
+    "tot_floods":10,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":5,
+    "tot_sev_moderate":2,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":3,
+    "d_2019":5,
+    "desc":"Susitna is located on the west bank of the Susitna River, at the foot of Mount Susitna. It lies 30 air miles northwest of Anchorage, west of Big Lake, in the Mat-Su Borough.",
+    "pronunciation":"soo sit' nuh",
+    "watershed":"Fish Creek-Susitna River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.878400,61.715900 ]
+    },
+    "properties": {
+    "city":"Sutton-Alpine",
+    "tot_floods":5,
+    "tot_sev_unknown":5,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":3,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Sutton-Alpine is between miles 52 and 72 of the Glenn Highway, 11 miles northeast of Palmer in the Mat-Su Borough. The area is accessed by Chickaloon Way and Jonesville Road.",
+    "pronunciation":"-",
+    "watershed":"Lower Matanuska River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.108100,62.317600 ]
+    },
+    "properties": {
+    "city":"Talkeetna",
+    "tot_floods":9,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":5,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":1,
+    "d_2009":6,
+    "d_2019":1,
+    "desc":"Located at the junction of the Talkeetna and Susitna Rivers, it lies 115 miles north of Anchorage at mile 226.7 of the Alaska Railroad. The paved Talkeetna Spur Road runs 14 miles east off the George Parks Highway at milepost 98.7.",
+    "pronunciation":"tall keet' nuh",
+    "watershed":"Trapper Creek-Susitna River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -143.356000,63.376300 ]
+    },
+    "properties": {
+    "city":"Tanacross",
+    "tot_floods":6,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":1,
+    "desc":"Tanacross is located on the south bank of the Tanana River, 12 miles northwest of Tok, at milepost 1324 of the Alaska Highway.",
+    "pronunciation":"tan' uh cross",
+    "watershed":"Tok-Cathedral Bluffs"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.087900,65.171200 ]
+    },
+    "properties": {
+    "city":"Tanana",
+    "tot_floods":4,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":1,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":1,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":2,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Tanana is located in Interior Alaska about two miles west of the junction of the Tanana and Yukon Rivers, 130 air miles west of Fairbanks.",
+    "pronunciation":"tan' uh naw",
+    "watershed":"Outlet Tozitna River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -145.412100,62.047400 ]
+    },
+    "properties": {
+    "city":"Tazlina",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Tazlina is located 5 miles south of Glennallen on the Richardson Highway, at mile 110.5. It is comprised of several small residential subdivisions and a business district. Copperville, Aspen Valley, Tazlina Terrace, and Copper Valley School Road are all",
+    "pronunciation":"taz lee' nuh",
+    "watershed":"Tazlina River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -166.367000,65.263700 ]
+    },
+    "properties": {
+    "city":"Teller",
+    "tot_floods":5,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":1,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":4,
+    "d_2019":0,
+    "desc":"Teller is located on a spit between Port Clarence and Grantley Harbor, 72 miles northwest of Nome, on the Seward Peninsula.",
+    "pronunciation":"-",
+    "watershed":"Grantley Harbor-Frontal Port Clarence"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.222800,57.780800 ]
+    },
+    "properties": {
+    "city":"Tenakee Springs",
+    "tot_floods":6,
+    "tot_sev_unknown":6,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":4,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Tenakee Springs is located on the east side of Chichagof Island, on the north shore of Tenakee Inlet. It lies 45 miles southwest of Juneau and 50 miles northeast of Sitka.",
+    "pronunciation":"ten' uh kee",
+    "watershed":"Tenakee Inlet-Frontal Chatham Strait"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -142.519700,63.138000 ]
+    },
+    "properties": {
+    "city":"Tetlin",
+    "tot_floods":3,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Tetlin is located along the Tetlin River, between Tetlin Lake and the Tanana River, 20 miles southeast of Tok. It lies in the Tetlin National Wildlife Refuge. The village is connected by road to the Alaska Highway.",
+    "pronunciation":"tet' linn",
+    "watershed":"Kalutna River-Tanana River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -132.524500,55.689800 ]
+    },
+    "properties": {
+    "city":"Thorne Bay",
+    "tot_floods":1,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Thorne Bay is 47 air miles northwest of Ketchikan on the east coast of Prince of Wales Island. On the island road system, it lies 60 miles from Hollis and 36 miles east of the Klawock Junction.",
+    "pronunciation":"-",
+    "watershed":"Kasaan Bay-Frontal Clarence Strait"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -160.377500,59.059700 ]
+    },
+    "properties": {
+    "city":"Togiak",
+    "tot_floods":4,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":4,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":1,
+    "d_1989":2,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Togiak is located at the head of Togiak Bay, 67 miles west of Dillingham. It lies in Togiak National Wildlife Refuge and is the gateway to Walrus Island Game Sanctuary.",
+    "pronunciation":"toag' ee ack",
+    "watershed":"Togiak Bay-Frontal Bristol Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -142.985600,63.336700 ]
+    },
+    "properties": {
+    "city":"Tok",
+    "tot_floods":12,
+    "tot_sev_unknown":7,
+    "tot_sev_minor":4,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":1,
+    "d_2009":2,
+    "d_2019":7,
+    "desc":"Tok is located at the junction of the Alaska Highway and the Tok Cutoff to the Glenn Highway, at 1,635' elevation, 200 miles southeast of Fairbanks. It is called the Gateway to Alaska, as it is the first major community upon entering Alaska, 93 miles f",
+    "pronunciation":"toke",
+    "watershed":"Outlet Tok River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -165.109000,60.533100 ]
+    },
+    "properties": {
+    "city":"Toksook Bay",
+    "tot_floods":7,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":3,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":5,
+    "d_2019":2,
+    "desc":"Toksook Bay is one of three villages located on Nelson Island, which lies 115 miles northwest of Bethel. It is on Kangirlvar Bay, across the water from Nunivak Island. Tununak is about 8 miles to the northwest.",
+    "pronunciation":"tuck' sook",
+    "watershed":"Ninglick River-Frontal Hazen Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.233900,62.316300 ]
+    },
+    "properties": {
+    "city":"Trapper Creek",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Trapper Creek lies between mile 107 and 133 of the George Parks Highway, in the Mat-Su Borough. It lies about 17 miles north of the Talkeetna Spur Road and west of the junction of the Chulitna, Susitna, and Talkeetna Rivers.",
+    "pronunciation":"-",
+    "watershed":"Trapper Creek-Susitna River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -160.956500,61.098700 ]
+    },
+    "properties": {
+    "city":"Tuluksak",
+    "tot_floods":3,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":3,
+    "d_2019":0,
+    "desc":"Tuluksak lies on the south bank of the Tuluksak River at its junction with the Kuskokwim River. The village is 35 miles northeast of Bethel.",
+    "pronunciation":"too look' sack",
+    "watershed":"Israthorak Creek-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -162.676400,60.342800 ]
+    },
+    "properties": {
+    "city":"Tuntutuliak",
+    "tot_floods":11,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":5,
+    "tot_sev_major":3,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":7,
+    "d_2019":4,
+    "desc":"Tuntutuliak is on the Qinaq River, approximately 3 miles from its confluence with the Kuskokwim River and about 40 miles from the Bering Sea coast. It lies 40 miles southwest of Bethel and 440 miles west of Anchorage.",
+    "pronunciation":"tun too too' lee ack",
+    "watershed":"Lower Eek River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -165.251400,60.586200 ]
+    },
+    "properties": {
+    "city":"Tununak",
+    "tot_floods":6,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":1,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":5,
+    "d_2019":1,
+    "desc":"Tununak is located in a small bay on the northeast coast of Nelson Island, 115 miles northwest of Bethel and 519 miles northwest of Anchorage.",
+    "pronunciation":"too noo' nuck",
+    "watershed":"Ninglick River-Frontal Hazen Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.038400,64.877300 ]
+    },
+    "properties": {
+    "city":"Two Rivers",
+    "tot_floods":2,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"Two Rivers is dispersed from mile 13 to mile 25 of Chena Hot Springs Road. It lies between the Chena and the Little Chena Rivers in the Fairbanks North Star Borough",
+    "pronunciation":"-",
+    "watershed":"Middle Chena River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -151.143400,61.068100 ]
+    },
+    "properties": {
+    "city":"Tyonek",
+    "tot_floods":4,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":1,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Tyonek lies on a bluff on the northwest shore of Cook Inlet, 43 miles southwest of Anchorage. Tyonek is not located directly on the Kenai Peninsula.",
+    "pronunciation":"tie oh' neck",
+    "watershed":"Old Tyonek Creek-Frontal Cook Inlet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -152.139800,69.371300 ]
+    },
+    "properties": {
+    "city":"Umiat",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Umiat is an Eskimo name meaning boats, a name applied to the locality because river boats were cached there. In 1945 Umiat became a supply and operation base for oil exploration. Umiat is maintained as a major airfield between Barrow and Fairbanks. ",
+    "pronunciation":"-",
+    "watershed":"Rainy Creek-Colville River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -160.794800,63.876900 ]
+    },
+    "properties": {
+    "city":"Unalakleet",
+    "tot_floods":2,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":2,
+    "d_2019":0,
+    "desc":"Unalakleet is located on Norton Sound at the mouth of the Unalakleet River, 148 miles southeast of Nome and 395 miles northwest of Anchorage.",
+    "pronunciation":"yoo' nuh luh kleet'",
+    "watershed":"South River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -166.530100,53.872800 ]
+    },
+    "properties": {
+    "city":"Unalaska",
+    "tot_floods":3,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":3,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":1,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Unalaska overlooks Iliuliuk Bay and Dutch Harbor on Unalaska Island in the Aleutian Chain. It lies 800 air miles from Anchorage (a two- to three-hour flight) and 1,700 miles northwest of Seattle. The name Dutch Harbor is often applied to the portion of t",
+    "pronunciation":"un uh lass' kuh",
+    "watershed":"Izembek Lagoon-Frontal Bristol Bay"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -160.312300,61.537100 ]
+    },
+    "properties": {
+    "city":"Upper Kalskag",
+    "tot_floods":4,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":0,
+    "d_1989":2,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":0,
+    "desc":"Upper Kalskag (Kalskag) is located on the north bank of the Kuskokwim River, 2 miles upriver from Lower Kalskag. It lies 30 miles west of Aniak, 99 miles northeast of Bethel, and 348 miles west of Anchorage.",
+    "pronunciation":"kal' skag",
+    "watershed":"Aniak Slough-Kuskokwim River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.355400,61.134300 ]
+    },
+    "properties": {
+    "city":"Valdez",
+    "tot_floods":15,
+    "tot_sev_unknown":5,
+    "tot_sev_minor":7,
+    "tot_sev_moderate":1,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":2,
+    "d_2009":7,
+    "d_2019":6,
+    "desc":"Valdez is located on the north shore of Port Valdez, a deep water fjord in Prince William Sound. It lies 305 road miles east of Anchorage and 364 road miles south of Fairbanks. It is the southern terminus of the Trans-Alaska oil pipeline.",
+    "pronunciation":"val deez'",
+    "watershed":"Valdez Arm-Frontal Prince William Sound"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -146.421800,67.016700 ]
+    },
+    "properties": {
+    "city":"Venetie",
+    "tot_floods":1,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":0,
+    "d_1999":1,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Venetie is located on the north side of the Chandalar River, 45 miles northwest of Fort Yukon.",
+    "pronunciation":"veen' uh tie",
+    "watershed":"Outlet Chandalar River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.433900,61.584500 ]
+    },
+    "properties": {
+    "city":"Wasilla",
+    "tot_floods":9,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":3,
+    "tot_sev_moderate":2,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":2,
+    "d_1989":2,
+    "d_1999":1,
+    "d_2009":3,
+    "d_2019":1,
+    "desc":"Wasilla is located midway between the Matanuska and Susitna Valleys, on the George Parks Highway. It lies between Wasilla and Lucille Lakes, 43 miles north of Anchorage.",
+    "pronunciation":"wah sill' uh",
+    "watershed":"City of Anchorage-Frontal Cook Inlet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -148.688300,60.774400 ]
+    },
+    "properties": {
+    "city":"Whittier",
+    "tot_floods":5,
+    "tot_sev_unknown":4,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":1,
+    "d_2009":2,
+    "d_2019":0,
+    "desc":"Whittier is on the northeast shore of the Kenai Peninsula, at the head of Passage Canal. It is on the west side of Prince William Sound, 60 miles southeast of Anchorage.",
+    "pronunciation":"wit' ee er",
+    "watershed":"Blackstone Bay-Frontal Port Wells"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.044100,61.738100 ]
+    },
+    "properties": {
+    "city":"Willow",
+    "tot_floods":5,
+    "tot_sev_unknown":1,
+    "tot_sev_minor":2,
+    "tot_sev_moderate":1,
+    "tot_sev_major":1,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":1,
+    "d_2019":2,
+    "desc":"Willow is located in the Mat-Su Borough, between mile 60 and 80.7 of the George Parks Highway, north of Houston. Its western boundary is the Susitna River.",
+    "pronunciation":"-",
+    "watershed":"Willow Creek"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -150.107500,67.410000 ]
+    },
+    "properties": {
+    "city":"Wiseman",
+    "tot_floods":2,
+    "tot_sev_unknown":2,
+    "tot_sev_minor":0,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":2,
+    "d_1989":0,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":0,
+    "desc":"Wiseman is located on the middle fork of the Koyukuk River, at the junction of Wiseman Creek in the Brooks Range. It is about 260 miles northwest of Fairbanks off the Dalton Highway, 13 miles north of Coldfoot, and 75 miles north of the Arctic Circle. Wi",
+    "pronunciation":"-",
+    "watershed":"Minnie Creek-Middle Fork Koyukuk River"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -132.380400,56.471700 ]
+    },
+    "properties": {
+    "city":"Wrangell",
+    "tot_floods":4,
+    "tot_sev_unknown":3,
+    "tot_sev_minor":1,
+    "tot_sev_moderate":0,
+    "tot_sev_major":0,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":1,
+    "d_1979":1,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":0,
+    "d_2019":1,
+    "desc":"The City and Borough of Wrangell is located on the northwest tip of Wrangell Island, 155 miles south of Juneau and 89 miles northwest of Ketchikan. It is near the mouth of the Stikine River, a historic trade route to the Canadian Interior.",
+    "pronunciation":"rang' gull",
+    "watershed":"Aaron Creek-Frontal Blake Channel"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -139.722800,59.546500 ]
+    },
+    "properties": {
+    "city":"Yakutat",
+    "tot_floods":6,
+    "tot_sev_unknown":0,
+    "tot_sev_minor":4,
+    "tot_sev_moderate":0,
+    "tot_sev_major":2,
+    "d_1909":0,
+    "d_1919":"0",
+    "d_1929":"0",
+    "d_1939":0,
+    "d_1949":0,
+    "d_1959":"0",
+    "d_1969":0,
+    "d_1979":0,
+    "d_1989":1,
+    "d_1999":0,
+    "d_2009":5,
+    "d_2019":0,
+    "desc":"Yakutat is isolated among the lowlands along the Gulf of Alaska, 225 miles northwest of Juneau and 220 miles southeast of Cordova. It is at the mouth of Yakutat Bay, one of the few refuges for vessels along this stretch of coast. The Hubbard and Malaspin",
+    "pronunciation":"yack' uh tat",
+    "watershed":"Lost River-Frontal Gulf of Alaska"
+    }
+  }
+]
+}
