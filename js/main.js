@@ -7,6 +7,9 @@ $(document).ready(initialize);
 function initialize() {
     // main create returns a map
     mapSizer(myMap());
+    // show splash modal on first run
+    $("#splashModal").modal('show');
+
 
     // for testing, to load alternate scripts
     //getExternal();
@@ -655,9 +658,30 @@ function myMap() {
 
     // for circle markers
     function  defaultMarkerOptions() {
+        let colorAll = "#138db8";
+        let colorMaj = "#e31a1c";
+        let colorMod = "#fd8d3c";
+        let colorMin = "#fecc5c";
+        let colorCurrent;
+
+        switch (currentlyActiveLG) {
+            case defaultLG:
+                colorCurrent = colorAll;
+                break;
+            case majorLG:
+                colorCurrent = colorMaj;
+                break;
+            case moderateLG:
+                colorCurrent = colorMod;
+                break;
+            case minorLG:
+                colorCurrent = colorMin;
+                break;
+        }
+
         return {
             radius: 6,
-            fillColor: "#b8060b",
+            fillColor: colorCurrent,
             color: "#000",
             weight: 1,
             opacity: 1,
@@ -678,7 +702,7 @@ function mapSizer(map) {
         if (result === "xs" || result === "sm" || result === "md") {
             $("#map").css({"height": "50vh"});
         } else {
-            $("#map").css({"height": "85vh"});
+            $("#map").css({"height": "80vh"});
         }
         map.invalidateSize();
     }).trigger("resize");

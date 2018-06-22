@@ -57,6 +57,33 @@
     <!--</section>-->
     <!-- JUMBOTRON -->
 
+
+    <!-- Splash Modal -->
+    <div class="modal fade" id="splashModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title text" id="exampleModalLabel"><strong>Welcome to the Alaska Flood History Explorer</strong></h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    This web application explores the quantity, severity, and decade of occurrence of recorded flood events
+                    in Alaskan communities. Each point on the map represents a community in Alaska.</p>
+                    The top level <strong>Severity Filter</strong> limits the data used in the other tools to those communities that have experienced floods of the specified severity.</p>
+                    The <strong>Floods by Decade</strong> tool sequences through the communities that had floods of the specified severity in each decade since 1900.</p>
+                    The <strong>Communities with __ Floods</strong> tool filters communities based on the number of floods of the specified severity in the database.</p>
+                    The <strong>Community Overview</strong> window describes a community whose point is clicked.
+                </div>
+                <div class="modal-footer flex-column align-content-center">
+                    <button type="button" class="btn btn-indigo btn-sm" data-dismiss="modal">Get Started!</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
     <!-- MAP PAGE -->
     <div class="container-fluid p-4 mb-3 mt-5 fadeIn" id="mainContainer">
         <div class="row" id="rowParent">
