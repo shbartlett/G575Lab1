@@ -66,6 +66,7 @@ function myMap() {
     let rangeFilter;
     let filterToolStatus = 0;
     let oldValFilter = [0,40];
+    let topCaller = "none";  // all, maj, mod, min, none
     let filterLayer;
 
     // listeners for severity buttons
@@ -242,6 +243,8 @@ function myMap() {
 
     // Logic for add/remove layers for severity filter
     function severityButtonToggler (caller) {
+        // control var
+        topCaller = caller;
         // feature count in layers
         let countAll = Number(defaultLG.getLayers().length);
         let countMaj = Number(majorLG.getLayers().length);
@@ -378,6 +381,8 @@ function myMap() {
                 updateLegend();
             }
         }
+        // reset var
+        topCaller = "none";
     };
 
     // setup tool controls
@@ -541,7 +546,9 @@ function myMap() {
                     console.log("ERROR: no filter layer to be removed");
                 }
                 // new filter layer
+                console.log(severityTag);
                 filterLayer = filterByFloodCount(0,1000,severityTag);
+                console.log(severityTag);
                 // update title
                 $("#titleFilter").text("Communities with " + oldValFilter[0] + " to " + oldValFilter[1] + " floods");
                 // turn off
@@ -552,8 +559,11 @@ function myMap() {
                 rangeFilter.bootstrapSlider('disable');
                 filterToolStatus = 0;
                 map.removeLayer(filterLayer);
-                map.addLayer(currentlyActiveLG);
                 resetSymbols(currentlyActiveLG);
+                // add layer unless calling function will handle it
+                if (topCaller === "none") {
+                    map.addLayer(currentlyActiveLG);
+                }
                 oldValFilter = [0,40];
                 // update title
                 $("#titleFilter").text("Communities with __ floods");
@@ -612,7 +622,7 @@ function myMap() {
                 }
             },
             pointToLayer: function (feature, latlng) {
-                return pointToLayer(feature, latlng);
+                return pointToLayer(feature, latlng, tag);
             }
         }).addTo(map);
         $("#cardShowRangeFilterCount").text(countComs + " Communities");
