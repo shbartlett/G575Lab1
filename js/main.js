@@ -50,6 +50,7 @@ function myMap() {
     let majorLG;
     let moderateLG;
     let minorLG;
+    let markerHighlightLG = L.layerGroup().addTo(map);
     let currentlyActiveLG;
     let severityTag = "tot_floods";
 
@@ -82,15 +83,116 @@ function myMap() {
             // store response
             jsonResponse = response;
             // Layer Groups to be made from ajax call = default, major, moderate, minor (communities with at least one flood of ___ severity)
-            defaultLG = createPropSymbols(response);
+            defaultLG = createPropSymbolsFiltered(response, "tot_floods");
             majorLG = createPropSymbolsFiltered(response, "tot_sev_major");
             moderateLG = createPropSymbolsFiltered(response, "tot_sev_moderate");
             minorLG = createPropSymbolsFiltered(response, "tot_sev_minor");
+
+            // create legend
+            createLegend(map);
 
             // simulate a click for default layer
             $("#btnSevAll").click();
         }
     });
+
+    // create temporal legend
+    function createLegend() {
+        let LegendControl = L.Control.extend({
+            options: {
+                position: 'bottomright'
+            },
+            onAdd: function (map) {
+                // container
+                let container = L.DomUtil.create('div', 'legend-control-container');
+                // temporal
+                $(container).append('<div class="btn-dark" id="temporal-legend">');
+                // attribute
+                let svg = '<svg class="figure" id="attribute-legend" width="160px" height="60px">';
+                // circles
+                var circles = {
+                    max: 20,
+                    mean: 40,
+                    min: 60
+                };
+                // loop to add svg
+                for (var circle in circles){
+                    svg += '<circle class="legend-circle" id="' + circle + '" fill="#F47821" fill-opacity="0.8" stroke="#000000" cx="30"/>';
+                    svg += '<text id="' + circle + '-text" x="65" y="' + circles[circle] + '"></text>';
+                };
+                svg += "</svg>";
+                $(container).append(svg);
+                return container;
+            }
+        });
+        map.addControl(new LegendControl());
+    }
+
+    // circle info
+    function getCircleValues(){
+        //start with min at highest possible and max at lowest possible number
+        let min = Infinity,
+            max = -Infinity;
+
+        let attribute;
+        // get attribute
+        if (currentlyActiveLG === defaultLG) {
+            attribute = "tot_floods";
+        } else if (currentlyActiveLG === majorLG) {
+            attribute = "tot_sev_major";
+        } else if (currentlyActiveLG === moderateLG) {
+            attribute = "tot_sev_moderate";
+        } else if (currentlyActiveLG === minorLG) {
+            attribute = "tot_sev_minor";
+        } else {
+            console.log("no match !?!?!?!?");
+        }
+        map.eachLayer(function(layer){
+            //get the attribute value
+            if (layer.feature){
+                var attributeValue = Number(layer.feature.properties[attribute]);
+
+                //test for min
+                if (attributeValue < min){
+                    min = attributeValue;
+                };
+
+                //test for max
+                if (attributeValue > max){
+                    max = attributeValue;
+                };
+            };
+        });
+        //set mean
+        var mean = (max + min) / 2;
+        //return values as an object
+        return {
+            max: max,
+            mean: mean,
+            min: min
+        };
+    };
+
+    // update svg legend
+    function updateLegend(){
+        //get the max, mean, and min values as an object
+        var circleValues = getCircleValues(map);
+
+        for (let key in circleValues) {
+            // radius
+            let radius = calcPropRadius(circleValues[key]);
+            // fill
+            let fill = getLegendColor();
+            // assign the cy and r attributes
+            $('#'+key).attr({
+                cy: 59 - radius,
+                r: radius,
+                fill: fill
+            });
+            // legend text
+            $('#'+key+'-text').text(Math.round(circleValues[key]*100)/100 + " floods");
+        }
+    };
 
     // make array of attributes (fields) with "d_" in the name (# floods by decades)
     function processData(data) {
@@ -110,14 +212,13 @@ function myMap() {
 
     // filters features on creation depending on flood severity to make the default layers
     function createPropSymbolsFiltered (response, tag) {
-        console.log(tag);
         return L.geoJson(response, {
             filter: function (feature, layer) {
                 let count = feature.properties[tag];
                 return count > 0;
             },
             pointToLayer: function (feature, latlng) {
-                return pointToLayer(feature, latlng);
+                return pointToLayer(feature, latlng, tag);
             }
         });
     }
@@ -155,22 +256,17 @@ function myMap() {
                 // remove others
                 try {
                     map.removeLayer(defaultLG);
-                    console.log("cleared DEF");
                     map.removeLayer(majorLG);
-                    console.log("cleared MAJ");
                     map.removeLayer(moderateLG);
-                    console.log("cleared MOD");
                     map.removeLayer(minorLG);
-                    console.log("cleared MIN");
                 } catch (err) {
                     // pass
-                    console.log('error?');
+                    console.log('remove error?');
                 }
-                defaultLG.addTo(map);
-                currentlyActiveLG = defaultLG;
-                severityTag = "tot_floods";
-
+                // update count on card
                 $("#cardCommunitiesShown").text("Count: " + countAll);
+                // update legend
+                $("#temporal-legend").html("Communities with Recorded Floods");
                 // toggle button appearances
                 if ($("#btnSevMaj").hasClass("active")) {$("#btnSevMaj").button('toggle');}
                 if ($("#btnSevMod").hasClass("active")) {$("#btnSevMod").button('toggle');}
@@ -178,6 +274,12 @@ function myMap() {
                 // reset tools
                 if (decadeToolStatus === 1) {$("#toggleDecadeSlider").click();}
                 if (filterToolStatus === 1) {$("#toggleFilterSlider").click();}
+                // add layer
+                defaultLG.addTo(map);
+                // change tracking vars
+                currentlyActiveLG = defaultLG;
+                severityTag = "tot_floods";
+                updateLegend();
             }
         } else if (caller === "maj") {
             if ($("#btnSevMaj").hasClass('active')) {
@@ -187,22 +289,16 @@ function myMap() {
                 // remove others
                 try {
                     map.removeLayer(defaultLG);
-                    console.log("cleared DEF");
                     map.removeLayer(majorLG);
-                    console.log("cleared MAJ");
                     map.removeLayer(moderateLG);
-                    console.log("cleared MOD");
                     map.removeLayer(minorLG);
-                    console.log("cleared MIN");
                 } catch (err) {
                     // pass
                 }
-
-                majorLG.addTo(map);
-                currentlyActiveLG = majorLG;
-                severityTag = "tot_sev_major";
-
+                // update count on card
                 $("#cardCommunitiesShown").text("Count: " + countMaj);
+                // update legend
+                $("#temporal-legend").html("Communities with 1+ Major Floods");
                 // toggle button appearances
                 if ($("#btnSevAll").hasClass("active")){$("#btnSevAll").button('toggle');}
                 if ($("#btnSevMod").hasClass("active")){$("#btnSevMod").button('toggle');}
@@ -210,6 +306,12 @@ function myMap() {
                 // reset tools
                 if (decadeToolStatus === 1) {$("#toggleDecadeSlider").click();}
                 if (filterToolStatus === 1) {$("#toggleFilterSlider").click();}
+                // add layer
+                majorLG.addTo(map);
+                // change tracking vars
+                currentlyActiveLG = majorLG;
+                severityTag = "tot_sev_major";
+                updateLegend();
             }
         } else if (caller === "mod") {
             if ($("#btnSevMod").hasClass('active')) {
@@ -219,22 +321,16 @@ function myMap() {
                 // remove others
                 try {
                     map.removeLayer(defaultLG);
-                    console.log("cleared DEF");
                     map.removeLayer(majorLG);
-                    console.log("cleared MAJ");
                     map.removeLayer(moderateLG);
-                    console.log("cleared MOD");
                     map.removeLayer(minorLG);
-                    console.log("cleared MIN");
                 } catch (err) {
                     // pass
                 }
-
-                moderateLG.addTo(map);
-                currentlyActiveLG = moderateLG;
-                severityTag = "tot_sev_moderate";
-
+                // update count on card
                 $("#cardCommunitiesShown").text("Count: " + countMod);
+                // update legend
+                $("#temporal-legend").html("Communities with 1+ Moderate Floods");
                 // toggle button appearances
                 if ($("#btnSevAll").hasClass("active")){$("#btnSevAll").button('toggle');}
                 if ($("#btnSevMaj").hasClass("active")){$("#btnSevMaj").button('toggle');}
@@ -242,6 +338,12 @@ function myMap() {
                 // reset tools
                 if (decadeToolStatus === 1) {$("#toggleDecadeSlider").click();}
                 if (filterToolStatus === 1) {$("#toggleFilterSlider").click();}
+                // add layer
+                moderateLG.addTo(map);
+                // change tracking vars
+                currentlyActiveLG = moderateLG;
+                severityTag = "tot_sev_moderate";
+                updateLegend();
             }
         } else {
             if ($("#btnSecMin").hasClass('active')) {
@@ -251,22 +353,16 @@ function myMap() {
                 // remove others
                 try {
                     map.removeLayer(defaultLG);
-                    console.log("cleared DEF");
                     map.removeLayer(majorLG);
-                    console.log("cleared MAJ");
                     map.removeLayer(moderateLG);
-                    console.log("cleared MOD");
                     map.removeLayer(minorLG);
-                    console.log("cleared MIN");
                 } catch (err) {
                     // pass
                 }
-
-                minorLG.addTo(map);
-                currentlyActiveLG = minorLG;
-                severityTag = "tot_sev_minor";
-
+                // update count on card
                 $("#cardCommunitiesShown").text("Count: " + countMin);
+                // update legend
+                $("#temporal-legend").html("Communities with 1+ Minor Floods");
                 // toggle button appearances
                 if ($("#btnSevAll").hasClass("active")){$("#btnSevAll").button('toggle');}
                 if ($("#btnSevMaj").hasClass("active")){$("#btnSevMaj").button('toggle');}
@@ -274,6 +370,12 @@ function myMap() {
                 // reset tools
                 if (decadeToolStatus === 1) {$("#toggleDecadeSlider").click();}
                 if (filterToolStatus === 1) {$("#toggleFilterSlider").click();}
+                // add layer
+                minorLG.addTo(map);
+                // change tracking vars
+                currentlyActiveLG = minorLG;
+                severityTag = "tot_sev_minor";
+                updateLegend();
             }
         }
     };
@@ -435,7 +537,6 @@ function myMap() {
                 // make sure no filter layer is on
                 try {
                     map.removeLayer(filterLayer);
-                    console.log("filter layer removed");
                 } catch (err) {
                     console.log("ERROR: no filter layer to be removed");
                 }
@@ -499,7 +600,6 @@ function myMap() {
 
     // update symbols for filtering
     function filterByFloodCount(lower, upper, tag) {
-        console.log(tag);
         let countComs = 0;
         let filterLayer = L.geoJson(jsonResponse, {
             filter: function(feature, layer) {
@@ -528,9 +628,20 @@ function myMap() {
         layerGroup.eachLayer(function (layer){
             // new radius
             layer.setStyle(geojsonMarkerOptions);
-
-            // new radius
-            let radius = calcPropRadius(Number(layer.feature.properties.tot_floods));
+            let radius;
+            // new radius based on layer calling
+            if (layerGroup === defaultLG) {
+                radius = calcPropRadius(Number(layer.feature.properties.tot_floods));
+            } else if (layerGroup === majorLG) {
+                radius = calcPropRadius(Number(layer.feature.properties.tot_sev_major));
+            } else if (layerGroup === moderateLG) {
+                radius = calcPropRadius(Number(layer.feature.properties.tot_sev_moderate));
+            } else if (layerGroup === minorLG) {
+                radius = calcPropRadius(Number(layer.feature.properties.tot_sev_minor));
+            } else {
+                console.log("no match !?!?!?!?");
+            }
+            //let radius = calcPropRadius(Number(layer.feature.properties.tot_floods));
             layer.setRadius(radius);
 
             // make popup
@@ -544,26 +655,26 @@ function myMap() {
         $("#cardShowRangeFilterCount").text("0 Communities");
     };
 
-    // parent function to vectorize features
-    function createPropSymbols(data){
-        // iterate through all features in json
-        return L.geoJson(data, {
-            // for each feature, call function to vectorize it
-            pointToLayer: function (feature, latlng) {
-                return pointToLayer(feature, latlng);
-            }
-        });
-    };
+    // // parent function to vectorize features
+    // function createPropSymbols(data){
+    //     // iterate through all features in json
+    //     return L.geoJson(data, {
+    //         // for each feature, call function to vectorize it
+    //         pointToLayer: function (feature, latlng) {
+    //             return pointToLayer(feature, latlng);
+    //         }
+    //     });
+    // };
 
     // marker styling and proportial symbols, this is called for each feature from createPropSymbols
-    function pointToLayer(feature, latlng) {
+    function pointToLayer(feature, latlng, tag) {
         //make a style for markers
         let geojsonMarkerOptions = defaultMarkerOptions();
         // marker
         let marker = L.circleMarker(latlng, geojsonMarkerOptions);
 
         // new radius
-        let radius = calcPropRadius(Number(feature.properties.tot_floods));
+        let radius = calcPropRadius(Number(feature.properties[tag]));
         marker.setRadius(radius);
 
         // make popup
@@ -580,6 +691,15 @@ function myMap() {
 
     // called on creation of each marker to add listeners to it
     function addListeners (marker){
+        let markerOptions = {
+            radius: marker.getRadius()*1.25,
+            fillColor: "#000000",
+            color: "#df00cd",
+            weight: 4,
+            opacity: 1,
+            fillOpacity: 0
+        };
+
         marker.on({
             mouseover: function(){
                 this.openPopup()
@@ -601,6 +721,69 @@ function myMap() {
                 let desc =
                     "<p>" + marker.feature.properties.desc + "</p>";
                 $("#desc").html(desc);
+
+                // clear old highlight
+                markerHighlightLG.clearLayers();
+                // add new highlight
+                L.circleMarker(marker.getLatLng(),markerOptions).addTo(markerHighlightLG);
+
+                //bar chart
+                let maj = Number(marker.feature.properties.tot_sev_major);
+                let mod = Number(marker.feature.properties.tot_sev_moderate);
+                let min = Number(marker.feature.properties.tot_sev_minor);
+                let tot = Number(marker.feature.properties.tot_floods);
+                let und = tot - (maj + mod + min);
+                let data = [maj, mod, min, und, tot];
+                makeBarChart(data);
+
+            }
+        });
+    };
+
+    //bar chart
+    function makeBarChart(data){
+        var ctxB = document.getElementById("barChart").getContext('2d');
+        var myBarChart = new Chart(ctxB, {
+            type: 'bar',
+            data: {
+                labels: ["Major", "Moderate", "Minor", "Undefined", "Total"],
+                datasets: [{
+                    label: '# Floods',
+                    data: data,
+                    backgroundColor: [
+                        '#e31a1c',
+                        '#fd8d3c',
+                        '#fecc5c',
+                        '#969696',
+                        '#138db8'
+                    ],
+                    borderColor: [
+                        '#e31a1c',
+                        '#fd8d3c',
+                        '#fecc5c',
+                        '#969696',
+                        '#138db8'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    yAxes: [{
+                        ticks: {
+                            beginAtZero:true
+                        }
+                    }]
+                },
+                layout: {
+                    padding: {
+                        left: 5,
+                        right: 5,
+                        top: 5,
+                        bottom: 5
+                    }
+                },
+                maintainAspectRatio: false
             }
         });
     };
@@ -688,6 +871,32 @@ function myMap() {
             fillOpacity: 0.6
         };
     }
+
+    // for legend svg color
+    function  getLegendColor() {
+        let colorAll = "#138db8";
+        let colorMaj = "#e31a1c";
+        let colorMod = "#fd8d3c";
+        let colorMin = "#fecc5c";
+        let colorCurrent;
+
+        switch (currentlyActiveLG) {
+            case defaultLG:
+                colorCurrent = colorAll;
+                break;
+            case majorLG:
+                colorCurrent = colorMaj;
+                break;
+            case moderateLG:
+                colorCurrent = colorMod;
+                break;
+            case minorLG:
+                colorCurrent = colorMin;
+                break;
+        }
+
+        return colorCurrent;
+    };
 
     // return map object
     return map;

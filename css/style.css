@@ -21,10 +21,27 @@ html, body {
     margin: 0.2em 0;
 }
 
+/*TEMPORAL LEGEND*/
+.legend-control-container {
+    width: 260px;
+    height: 100%;
+    background-color: rgba(255,255,255,0.8);
+    padding: 0px;
+    padding-bottom: 5px;
+    line-height: 30px;
+    text-align: center;
+    border: solid gray 1px;
+    font-weight: bold;
+}
+
 /*ALLOW CARD SCROLLBOX*/
 .scroll-box {
     overflow-y: scroll;
-    height: 15vh;
+    height: 10vh;
+}
+
+#canvasHolder {
+    height: 19vh;
 }
 
 /*SLIDERS*/
